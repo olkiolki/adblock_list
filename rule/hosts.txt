@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2023-04-19 00:14:55
+! Last Modified: 2023-04-19 09:07:30
 ! Homepage: https://github.com/xndeye/adblock_list
 ## 👇This Part Merge from: https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 127.0.0.1 c.sayhi.360.cn
@@ -4058,6 +4058,7 @@
 0.0.0.0 ns.cac.com.cn
 0.0.0.0 toroadvertisingmedia.com
 0.0.0.0 pool.distilled.ie
+0.0.0.0 www.nozawashoten.com
 0.0.0.0 ctxtad.tribalfusion.com
 0.0.0.0 greeninst.com
 0.0.0.0 fashion-online.net
@@ -6436,7 +6437,6 @@
 0.0.0.0 24ratownik.hit.gemius.pl
 0.0.0.0 scrooge.newsnet5.com
 0.0.0.0 frecnhweb.fr
-0.0.0.0 jqueryscript.net
 0.0.0.0 ads.fuckingmachines.com
 0.0.0.0 pianolessons.fr
 0.0.0.0 ads.auctioncity.co.nz
@@ -12968,7 +12968,6 @@
 0.0.0.0 danger-phentermine.allforyourlife.com
 0.0.0.0 ehg-acdsystems.hitbox.com
 0.0.0.0 oasc03049.247realmedia.com
-0.0.0.0 www.nozawashoten.com
 0.0.0.0 ehg-ctv.hitbox.com
 0.0.0.0 www.friend-greetings.com
 0.0.0.0 ws06.home.sapo.pt
