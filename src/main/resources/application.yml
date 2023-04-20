@@ -17,18 +17,20 @@ application:
   rule:
     #远程规则
     remote:
-      - 'https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt'  #adblock-nocoin-list
-      - 'https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt' #Scam Blocklist
-      - 'https://someonewhocares.org/hosts/zero/hosts' #Dan Pollock's List
-      - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt' #AdGuard DNS filter
-      - 'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext' #Peter Lowe's List
+      - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt' #AdGuard基础过滤器
+      - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt' #AdGuard移动广告过滤器
+      - 'https://adguard.com/kb/zh-CN/general/ad-filtering/adguard-filters/' #AdGuard防跟踪保护过滤器
+      - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt' #AdGuard URL跟踪过滤器
+      - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_4_Social/filter.txt' # AdGuard社交媒体过滤器
+      - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt' #AdGuard 恼人广告过滤器
+      - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_10_Useful/filter.txt' #AdGuard解除搜索广告和自我推销过滤器
+      - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt' #AdGuard中文过滤器
       - 'https://adaway.org/hosts.txt' #AdAway Default Blocklist
       - 'https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt' #WindowsSpyBlocker
       - 'https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts' #大圣净化
-      - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt' #adguard base
       - 'https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt' #AWAvenue-Adblock-Rule
-      - 'https://cdn.jsdelivr.net/gh/sbwml/halflife-list@master/ad-pc.txt' #halflife-list
-      - 'https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt'
+      - 'https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt' #halflife-list
+      - 'https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt' #adgk
     #本地规则
     local: #本地规则请将文件移动到项目路径rule目录中
       - 'private.txt'

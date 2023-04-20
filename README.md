@@ -18,17 +18,20 @@
 <details>
 <summary>点击查看上游规则</summary>
 <ul>
-    <li><a href="https://github.com/hoshsadiq/adblock-nocoin-list/">adblock-nocoin-list</a></li>
-    <li><a href="https://github.com/durablenapkin/scamblocklist">Scam Blocklist</a></li>
-    <li><a href="https://someonewhocares.org/hosts/zero/hosts">Dan Pollock's List</a></li>
-    <li><a href="https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt">AdGuard DNS filter</a></li>
-    <li><a href="https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext">Peter Lowe's List</a></li>
+    <li><a href="https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt">AdGuard 基础过滤器</a></li>
+    <li><a href="https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt">AdGuard 移动广告过滤器</a></li>
+    <li><a href="https://adguard.com/kb/zh-CN/general/ad-filtering/adguard-filters/">AdGuard 防跟踪保护过滤器</a></li>
+    <li><a href="https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt">AdGuard URL跟踪过滤器</a></li>
+    <li><a href="https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_4_Social/filter.txt">AdGuard 社交媒体过滤器</a></li>
+    <li><a href="https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt">AdGuard 恼人广告过滤器</a></li>
+    <li><a href="https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_10_Useful/filter.txt">AdGuard 解除搜索广告和自我推销过滤器</a></li>
+    <li><a href="https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt">AdGuard 中文过滤器</a></li>
     <li><a href="https://adaway.org/hosts.txt">AdAway Default Blocklist</a></li>
-    <li><a href="https://github.com/crazy-max/WindowsSpyBlocker">WindowsSpyBlocker</a></li>
-    <li><a href="https://github.com/jdlingyu/ad-wars">ad-wars</a></li>
-    <li><a href="https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt">AdGuard Base</a></li>
+    <li><a href="https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt">WindowsSpyBlocker</a></li>
+    <li><a href="https://github.com/jdlingyu/ad-wars">ad-wars(大圣净化)</a></li>
     <li><a href="https://github.com/TG-Twilight/AWAvenue-Adblock-Rule">AWAvenue-Adblock-Rule</a></li>
     <li><a href="https://github.com/sbwml/halflife-list">halflife-list</a></li>
-    <li><a href="https://github.com/uniartisan/adblock_list">uniartisan-adblock_list</a></li>
+    <li><a href="https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt">ADgk</a></li>
+
 </ul>
 </details>
