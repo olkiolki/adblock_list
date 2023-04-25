@@ -31,7 +31,6 @@
     <li><a href="https://github.com/jdlingyu/ad-wars">ad-wars(大圣净化)</a></li>
     <li><a href="https://github.com/TG-Twilight/AWAvenue-Adblock-Rule">AWAvenue-Adblock-Rule</a></li>
     <li><a href="https://github.com/sbwml/halflife-list">halflife-list</a></li>
-    <li><a href="https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt">ADgk</a></li>
 
 </ul>
 </details>
