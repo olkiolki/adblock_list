@@ -4,19 +4,6 @@
 ! Homepage: https://github.com/xndeye/adblock_list
 ! Description: 自用补充规则, 完全主观, 不定期更新.
 #-------------白名单---------------
-#图床
-@@||pic.imgdb.cn
-#微信支付
-@@||payapp.weixin.qq.com^
-#夸克网盘
-@@||pan.quark.cn^
-@@||drive.quark.cn^
-#夸克首页
-@@||myquark.cn^
-#小米骚扰拦截 数据库更新
-@@||api.sec.miui.com^
-#小米推送(mipush)
-@@||cn.app.chat.xiaomi.net^
 #个推
 @@||sdk.open.talk.gepush.com^
 #公共CDN
