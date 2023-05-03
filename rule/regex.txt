@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: regex.txt
-! Last Modified: 2023-05-03 09:05:53
+! Last Modified: 2023-05-03 16:15:54
 ! Homepage: https://github.com/xndeye/adblock_list
 ## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
 ||marketplace-*.hyprmx.com^
@@ -75,9 +75,6 @@ lj_bookmarklet
 <!doctype html>
 ## 👇This Part Merge from: https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt
 ~Prebid.js
-## 👇This Part Merge from: https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt
-||pagead*.google.com^
-||ad.*.xiaomi.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt
 ||get-me-wow.
 ||ejghgjhhgadcdchjaada.ru.^
@@ -91,28 +88,16 @@ lj_bookmarklet
 ||gamenguide.com*adbk
 ||pijama.*.elasticbeanstalk.com^
 ||itechpost.com*adbk
-## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
-||fapnado.*.php|
-Banner468x60
-## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
-rgmechanicsgames.com*VPN.exe
-||ads*.dfiles.eu^
-||ads*.depositfiles.com^
-||ads*.depositfiles.org^
-||ads*.dfiles.ru^
-||ad*.mac-torrent-download.net^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt
 ||centent.streamp1ay.
 ||cas.*.criteo.com^
 ||cintent.streanplay.
+## 👇This Part Merge from: https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt
+||pagead*.google.com^
+||ad.*.xiaomi.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
-||ads*.opensubtitles.org^
-@@||adobeid-*.services.adobe.com^
-@@||api.browser.yandex.
-||play*.videos.vidto.me^
-||s*.skencituer.com^
-||hostingcloud.*.wasm^
-@@||cdn*.porn300.com^
+||fapnado.*.php|
+Banner468x60
 ## 👇This Part Merge from: https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt
 ||internal-matomo.
 ||meetrics.netbb-
@@ -140,3 +125,18 @@ rgmechanicsgames.com*VPN.exe
 ||onetrust.
 ||acookie.*.gif?
 ||stats.zone-telechargement.
+## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
+rgmechanicsgames.com*VPN.exe
+||ads*.dfiles.eu^
+||ads*.depositfiles.com^
+||ads*.depositfiles.org^
+||ads*.dfiles.ru^
+||ad*.mac-torrent-download.net^
+## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
+||ads*.opensubtitles.org^
+@@||adobeid-*.services.adobe.com^
+@@||api.browser.yandex.
+||play*.videos.vidto.me^
+||s*.skencituer.com^
+||hostingcloud.*.wasm^
+@@||cdn*.porn300.com^
