@@ -1,9 +1,30 @@
 [xndeye Adblock List]
 ! Title: regex.txt
-! Last Modified: 2023-05-05 16:15:54
+! Last Modified: 2023-05-06 00:16:34
 ! Homepage: https://github.com/xndeye/adblock_list
-## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_4_Social/filter.txt
-lj_bookmarklet
+## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
+||marketplace-*.hyprmx.com^
+||api*.batmobil.net^
+||adx-*.dbankcloud.
+||adx-*.op.dbankcloud.com.edgekey.net^
+||api*.batmobi.net^
+||mediate-ios-*.hyprmx.com^
+||adv0*.msa.cdn.mediaset.net^
+||rtbimp-loadbalancer-*.amazonaws.com^
+||production-adserver-*.amazonaws.com^
+||iad-*.appboy.com^
+||ad-*.appacc.dbankedge.cn^
+||jtbo*.nqxvevk.cn^
+||events-*.op.hicloud.com^
+||ad*.nexage.com^
+||api-*.bidmachine.io^
+||adx-*.dbankedge.cn^
+||iad-*.braze.com^
+||banner.*.tccapis.com^
+||adserver.*.yahoodns.net^
+||ifengad.*.ifeng.com^
+||cdn-adn-*.rayjump.com^
+||adcs-*.myappsget.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt
 ||8*.tianya.cn^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
@@ -14,6 +35,8 @@ lj_bookmarklet
 ||vns86.oss-*.aliyuncs.com^
 ||122.225.103.*.htm
 ||asd8900.oss-*.aliyuncs.com^
+## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_4_Social/filter.txt
+lj_bookmarklet
 ## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt
 ||sax*.sina.
 ||adi*.cnool.net^
@@ -48,36 +71,14 @@ lj_bookmarklet
 ||ysdm*.ys137.com.cn^
 ||ac*.pingguolv.com^
 ||at*.doubanio.com^
-## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-||marketplace-*.hyprmx.com^
-||api*.batmobil.net^
-||adx-*.dbankcloud.
-||adx-*.op.dbankcloud.com.edgekey.net^
-||api*.batmobi.net^
-||mediate-ios-*.hyprmx.com^
-||adv0*.msa.cdn.mediaset.net^
-||rtbimp-loadbalancer-*.amazonaws.com^
-||production-adserver-*.amazonaws.com^
-||iad-*.appboy.com^
-||ad-*.appacc.dbankedge.cn^
-||jtbo*.nqxvevk.cn^
-||events-*.op.hicloud.com^
-||ad*.nexage.com^
-||api-*.bidmachine.io^
-||adx-*.dbankedge.cn^
-||iad-*.braze.com^
-||banner.*.tccapis.com^
-||adserver.*.yahoodns.net^
-||ifengad.*.ifeng.com^
-||cdn-adn-*.rayjump.com^
 ## 👇This Part Merge from: https://adguard.com/kb/zh-CN/general/ad-filtering/adguard-filters/
 <head>
 <!doctype html>
+## 👇This Part Merge from: https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt
+~Prebid.js
 ## 👇This Part Merge from: https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt
 ||pagead*.google.com^
 ||ad.*.xiaomi.com^
-## 👇This Part Merge from: https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt
-~Prebid.js
 ## 👇This Part Merge from: https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt
 ||get-me-wow.
 ||ejghgjhhgadcdchjaada.ru.^
