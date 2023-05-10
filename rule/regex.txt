@@ -1,17 +1,7 @@
 [xndeye Adblock List]
 ! Title: regex.txt
-! Last Modified: 2023-05-10 16:16:08
+! Last Modified: 2023-05-11 00:19:58
 ! Homepage: https://github.com/xndeye/adblock_list
-## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt
-||8*.tianya.cn^
-||zhizhizhizhi.oss-*.aliyuncs.com^
-||113.17.188.*.js
-||121.204.246.*.gif
-||120.27.*.html
-||218.26.217.*.html
-||vns86.oss-*.aliyuncs.com^
-||122.225.103.*.htm
-||asd8900.oss-*.aliyuncs.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
 ||marketplace-*.hyprmx.com^
 ||api*.batmobil.net^
@@ -35,6 +25,16 @@
 ||ifengad.*.ifeng.com^
 ||cdn-adn-*.rayjump.com^
 ||adcs-*.myappsget.com^
+## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt
+||8*.tianya.cn^
+||zhizhizhizhi.oss-*.aliyuncs.com^
+||113.17.188.*.js
+||121.204.246.*.gif
+||120.27.*.html
+||218.26.217.*.html
+||vns86.oss-*.aliyuncs.com^
+||122.225.103.*.htm
+||asd8900.oss-*.aliyuncs.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_4_Social/filter.txt
 lj_bookmarklet
 ## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt
@@ -74,6 +74,9 @@ lj_bookmarklet
 ## 👇This Part Merge from: https://adguard.com/kb/zh-CN/general/ad-filtering/adguard-filters/
 <head>
 <!doctype html>
+## 👇This Part Merge from: https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt
+||pagead*.google.com^
+||ad.*.xiaomi.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt
 ~Prebid.js
 ## 👇This Part Merge from: https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt
@@ -93,12 +96,12 @@ lj_bookmarklet
 ||gamenguide.com*adbk
 ||pijama.*.elasticbeanstalk.com^
 ||itechpost.com*adbk
-## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
-||fapnado.*.php|
-Banner468x60
 ## 👇This Part Merge from: https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt
 ||internal-matomo.
 ||meetrics.netbb-
+## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
+||fapnado.*.php|
+Banner468x60
 ## 👇This Part Merge from: https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt
 ||bc.geocities.
 ||tracking.*.miui.com^
@@ -122,9 +125,6 @@ rgmechanicsgames.com*VPN.exe
 ||ads*.depositfiles.org^
 ||ads*.dfiles.ru^
 ||ad*.mac-torrent-download.net^
-## 👇This Part Merge from: https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt
-||pagead*.google.com^
-||ad.*.xiaomi.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt
 ||stats.zone-annuaire.
 ||stat.*.v-56.com^
