@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: regex.txt
-! Last Modified: 2023-06-18 00:15:13
+! Last Modified: 2023-06-18 09:22:59
 ! Homepage: https://github.com/xndeye/adblock_list
 ## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
 ||marketplace-*.hyprmx.com^
@@ -45,14 +45,12 @@ lj_bookmarklet
 ||bd*-ys.km.com^
 ||same*.stockstar.com^
 ||impservice*.youdao.com^
-||d*.ruiwen.com^
 ||impservice*.yodao.com^
 ||a*.chajiaotong.com^
 ||bdlm*.hc360.com^
 ||ac*.faxingchina.com^
 ||ac*.786ip.com^
 ||ya*.dwstatic.com^
-||d*.xinshipu.com^
 ||js*.abolezi.com^
 ||sam*.baby-kingdom.com^
 ||ja*.gamersky.com^
@@ -62,23 +60,20 @@ lj_bookmarklet
 ||dm*.ppzuowen.com^
 ||dm*.yxlady.com^
 ||uc*.atobo.com^
-||fpb*.51edu.com^
 ||gcw*.2liang.cn^
+||d*.ruiwen.com^
 ||fanpingbi*.gaokao.com^
 ||dn*.ixinwei.com^
+||fpb1.chinacar.
+||d*.xinshipu.com^
+||fpb*.51edu.com^
 ||qpb*.sohu.com^
 ||static*.365inews.com^
 ||union*.365inews.com^
 ||ysdm*.ys137.com.cn^
-||fpb1.chinacar.
 ## 👇This Part Merge from: https://adguard.com/kb/zh-CN/general/ad-filtering/adguard-filters/
 <head>
 <!doctype html>
-## 👇This Part Merge from: https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt
-~Prebid.js
-## 👇This Part Merge from: https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt
-||get-me-wow.
-||ejghgjhhgadcdchjaada.ru.^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt
 ||pagead*.google.com^
 ||ad.*.xiaomi.com^
@@ -101,6 +96,22 @@ rgmechanicsgames.com*VPN.exe
 ||ads*.depositfiles.com^
 ||ads*.depositfiles.org^
 ||ads*.dfiles.ru^
+## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
+||ads*.opensubtitles.org^
+@@||adobeid-*.services.adobe.com^
+||play*.videos.vidto.me^
+~Prebid.js
+||s*.skencituer.com^
+||hostingcloud.*.wasm^
+@@||cdn*.porn300.com^
+## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
+||get-me-wow.
+||ejghgjhhgadcdchjaada.ru.^
+## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
+||util-*.simply-hentai.com^
+||centent.streamp1ay.
+||cas.*.criteo.com^
+||cintent.streanplay.
 ## 👇This Part Merge from: https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt
 ||util-*.simply-hentai.com^
 ||centent.streamp1ay.
@@ -108,13 +119,6 @@ rgmechanicsgames.com*VPN.exe
 ||cintent.streanplay.
 ## 👇This Part Merge from: https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt
 ||geotargetly-api-*.com^
-## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
-||ads*.opensubtitles.org^
-@@||adobeid-*.services.adobe.com^
-||play*.videos.vidto.me^
-||s*.skencituer.com^
-||hostingcloud.*.wasm^
-@@||cdn*.porn300.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt
 ||bc.geocities.
 ||analytics-api.dvdfab.
@@ -132,8 +136,9 @@ rgmechanicsgames.com*VPN.exe
 ||stats.zone-annuaire.
 ||stat.*.v-56.com^
 ||matt.mercadolibre.
-||onetrust.
 ||sta.zone-telechargement.
 ||stats*.credit-cooperatif.coop^
-||acookie.*.gif?
 ||stats.zone-telechargement.
+## 👇This Part Merge from: https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt
+||onetrust.
+||acookie.*.gif?
