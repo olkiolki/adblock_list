@@ -19,7 +19,7 @@ application:
     remote:
       - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt' #AdGuard基础过滤器
       - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt' #AdGuard移动广告过滤器
-      - 'https://adguard.com/kb/zh-CN/general/ad-filtering/adguard-filters/' #AdGuard防跟踪保护过滤器
+      - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt' #AdGuard防跟踪保护过滤器
       - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt' #AdGuard URL跟踪过滤器
       - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_4_Social/filter.txt' # AdGuard社交媒体过滤器
       - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt' #AdGuard 恼人广告过滤器
