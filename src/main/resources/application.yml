@@ -17,22 +17,37 @@ application:
   rule:
     #远程规则
     remote:
-      - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt' #AdGuard基础过滤器
-      - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt' #AdGuard移动广告过滤器
-      - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt' #AdGuard防跟踪保护过滤器
-      - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt' #AdGuard URL跟踪过滤器
-      - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_4_Social/filter.txt' # AdGuard社交媒体过滤器
-      - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt' #AdGuard 恼人广告过滤器
-      - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_10_Useful/filter.txt' #AdGuard解除搜索广告和自我推销过滤器
-      - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt' #AdGuard中文过滤器
-      - 'https://adaway.org/hosts.txt' #AdAway Default Blocklist
-      - 'https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt' #WindowsSpyBlocker
-      - 'https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts' #大圣净化
-      - 'https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt' #AWAvenue-Adblock-Rule
-      - 'https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt' #halflife-list
+      - name: AdGuard 基础过滤器
+        path: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
+      - name: AdGuard 移动广告过滤器
+        path: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
+      - name: AdGuard 防跟踪保护过滤器
+        path: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
+      - name: AdGuard URL跟踪过滤器
+        path: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt
+      - name: AdGuard 社交媒体过滤器
+        path: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_4_Social/filter.txt
+      - name: AdGuard 恼人广告过滤器
+        path: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt
+      - name: AdGuard 解除搜索广告和自我推销过滤器
+        path: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_10_Useful/filter.txt
+      - name: AdGuard 中文过滤器
+        path: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt
+      - name: AdAway Default Blocklist
+        path: https://adaway.org/hosts.txt
+      - name: WindowsSpyBlocker
+        path: https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
+      - name: 大圣净化
+        path: https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
+      - name: AWAvenue-Adblock-Rule
+        path: https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt
+      - name: halflife-list
+        path: https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt
     #本地规则
     local: #本地规则请将文件移动到项目路径rule目录中
-      - 'private.txt'
+      - name: 'xndeye private List'
+        path: 'private.txt'
+
   output:
     file_header: |  #输出文件头, 占位符${name}将被替换为文件名，如all.txt,  ${date} 将被替换为当前日期
       [xndeye Adblock List]
