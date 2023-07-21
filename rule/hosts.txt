@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2023-07-21 16:16:08
+! Last Modified: 2023-07-22 00:16:29
 ! Homepage: https://github.com/xndeye/adblock_list
 ! 👇This Part Merge from: AdAway Default Blocklist (https://adaway.org/hosts.txt)
 127.0.0.1 app-lon06.marketo.com
