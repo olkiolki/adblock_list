@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2023-08-11 08:56:13
+! Last Modified: 2023-08-11 16:15:34
 ! Homepage: https://github.com/xndeye/adblock_list
 ! 👇This Part Merge from: WindowsSpyBlocker (https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
 0.0.0.0 bn4sch101120911.wns.windows.com
@@ -2415,7 +2415,6 @@
 127.0.0.1 assets-v2.yieldify.com
 127.0.0.1 images.apester.com
 127.0.0.1 nonmutt.eastus.trafficmanager.inmobi.com
-127.0.0.1 sdkconfig.ad.xiaomi.com
 127.0.0.1 rcn.asapp.com
 127.0.0.1 sdk-events.inner-active.mobi
 127.0.0.1 pbs.publishers.tremorhub.com
@@ -3085,7 +3084,6 @@
 127.0.0.1 events.claspws.tv
 127.0.0.1 a3686.casalemedia.com
 127.0.0.1 monitor.clickcease.com
-127.0.0.1 log.ad.xiaomi.com
 127.0.0.1 gbc0.da.us.criteo.com
 127.0.0.1 dopemobi.offerstrack.net
 127.0.0.1 adtima.vn
@@ -4034,7 +4032,6 @@
 127.0.0.1 tracking.listhub.net
 127.0.0.1 dcys.ijinshan.com
 127.0.0.1 mobile.confsettings.com
-127.0.0.1 zeus.ad.xiaomi.com
 127.0.0.1 analytics.wildtangent.com
 127.0.0.1 es.ads.justpremium.com
 127.0.0.1 www.chartboost.com
@@ -4759,7 +4756,6 @@
 127.0.0.1 in.treasuredata.com
 127.0.0.1 cdn.uc.atwola.com
 127.0.0.1 mobile.ib.sin1.geoadnxs.com
-127.0.0.1 gemini.yahoo.com
 127.0.0.1 soundpublishing.blueconic.net
 127.0.0.1 btloader.com
 127.0.0.1 ad.doubleclick.net
@@ -6652,7 +6648,6 @@
 127.0.0.1 i.connectad.io
 127.0.0.1 gota.tpbid.com
 127.0.0.1 d.la1-c2-iad.salesforceliveagent.com
-127.0.0.1 xdcs-collector.ximalaya.com
 127.0.0.1 player.stats.live-video.net
 127.0.0.1 b1-chidc2.zemanta.com
 127.0.0.1 3616.content.swrve.com
@@ -7435,6 +7430,7 @@
 127.0.0.1 yt-adp.ws.126.net
 127.0.0.1 stg-data.ads.heytapmobi.com
 127.0.0.1 a.track.sohu.com
+127.0.0.1 gemini.yahoo.com
 127.0.0.1 ott3.da.mgtv.com
 127.0.0.1 sammix.adsame.com
 127.0.0.1 msg.cn.miaozhen.com
@@ -7478,6 +7474,7 @@
 127.0.0.1 ad3.udn.com
 127.0.0.1 ad.wang502.com
 127.0.0.1 stat.mobgi.com
+127.0.0.1 log.ad.xiaomi.com
 127.0.0.1 res.aduu.cn
 127.0.0.1 letv.axp.admaster.com.cn
 127.0.0.1 adashx4yt.m.taobao.com
@@ -7645,6 +7642,7 @@
 127.0.0.1 edge.reporo.net
 127.0.0.1 qosp.msg.71.am
 127.0.0.1 clickc.admaster.com.cn
+127.0.0.1 zeus.ad.xiaomi.com
 127.0.0.1 g1.ads.oppomobile.com
 127.0.0.1 adstextview.qq.com
 127.0.0.1 adashbc.ut.taobao.com
@@ -7712,6 +7710,7 @@
 127.0.0.1 mcs.snssdk.com
 127.0.0.1 a3.img.static.youmi.net
 127.0.0.1 adsmind.gdtimg.com
+127.0.0.1 sdkconfig.ad.xiaomi.com
 127.0.0.1 ott.v1.data.mgtv.com
 127.0.0.1 pm.aty.sohu.com
 127.0.0.1 ssp.pro.cn
@@ -7870,6 +7869,7 @@
 127.0.0.1 hqs7.cnzz.com
 127.0.0.1 img.ads.huntmad.com
 127.0.0.1 api.e.kuaishou.com
+127.0.0.1 xdcs-collector.ximalaya.com
 127.0.0.1 domob.com.cn
 127.0.0.1 sltint.adv.ott.cibntv.net
 127.0.0.1 optimus-ads.amap.com
@@ -7940,6 +7940,7 @@
 127.0.0.1 adx.doumpaq.com
 127.0.0.1 report.yumobi.cn
 127.0.0.1 abtest.mistat.xiaomi.com
+127.0.0.1 api.ad.xiaomi.com
 127.0.0.1 saturn2.appads.com
 127.0.0.1 stats.xwuad.com
 127.0.0.1 ada.baidu.com
