@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2023-09-14 16:16:48
+! Last Modified: 2023-09-15 00:17:29
 ! Homepage: https://github.com/xndeye/adblock_list
 ! 👇This Part Merge from: WindowsSpyBlocker (https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
 0.0.0.0 bn4sch101120911.wns.windows.com
@@ -373,6 +373,7 @@
 127.0.0.1 api.domob.cn
 127.0.0.1 jupiter1.appads.com
 127.0.0.1 apiconfig.adwo.com
+127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 vapi.tiandi.com
 127.0.0.1 zls.xz6d.com
 127.0.0.1 sp0.baidu.com
@@ -506,6 +507,7 @@
 127.0.0.1 cdn-ads.oss-cn-shanghai.aliyuncs.com
 127.0.0.1 vsohu.admaster.com.cn
 127.0.0.1 m.zdjgj.cn
+127.0.0.1 tpc.googlesyndication.com
 127.0.0.1 beacons.gcp.gvt2.com
 127.0.0.1 api1.tuisong.baidu.com
 127.0.0.1 youku-dtv.m.cn.miaozhen.com
@@ -752,7 +754,6 @@
 127.0.0.1 adcs-ue.myappsget.com
 127.0.0.1 platform.adwep.com
 127.0.0.1 hybl9bazbc35.pflexads.com
-127.0.0.1 sdk.open.talk.gepush.com
 127.0.0.1 m1.ad.10010.com
 127.0.0.1 ww251.smartadserver.com
 127.0.0.1 hqs4.cnzz.com
@@ -1008,7 +1009,6 @@
 127.0.0.1 adt.cpatrk.net
 127.0.0.1 samrt.adsame.com
 127.0.0.1 brprt.stsdk.vivo.com.cn
-127.0.0.1 ads.google.com
 127.0.0.1 sf1-be-pack.pglstatp-toutiao.com
 127.0.0.1 xd.mediav.com
 127.0.0.1 adashbc.m.taobao.com
@@ -1068,7 +1068,6 @@
 127.0.0.1 mobile2.da.mgtv.com
 127.0.0.1 api.yidaomobi.com
 127.0.0.1 dataf.ads.oppomobile.com
-127.0.0.1 sdk.open.talk.getui.net
 127.0.0.1 cdn.pyadx.com
 127.0.0.1 stsdk.vivo.com.cn
 127.0.0.1 zs15.cnzz.com
@@ -1416,6 +1415,7 @@
 127.0.0.1 sdfp.snssdk.com
 127.0.0.1 www.googletagmanager.com
 127.0.0.1 udash.umengcloud.com
+127.0.0.1 www.googleadservices.com
 127.0.0.1 stg-data.ads.heytapmobi.com
 127.0.0.1 gemini.yahoo.com
 127.0.0.1 coconuts.boy.jp
@@ -1456,6 +1456,7 @@
 127.0.0.1 mobileads.msn.com
 127.0.0.1 da.mmarket.com
 127.0.0.1 datax.baidu.com
+127.0.0.1 adservice.google.com
 127.0.0.1 secure.mediav.com
 127.0.0.1 adsence.sogou.com
 127.0.0.1 click2.hd.sohu.com
@@ -1591,6 +1592,7 @@
 127.0.0.1 news-l.play.ott.video.qq.com
 127.0.0.1 adexpo.tencentmusic.com
 127.0.0.1 d2.sina.com.cn
+127.0.0.1 googlesyndication.com
 127.0.0.1 s.snmi.cn
 127.0.0.1 c.cnzz.com
 127.0.0.1 mdn2.phluantmobile.net
@@ -1666,6 +1668,7 @@
 127.0.0.1 sltint.adv.ott.cibntv.net
 127.0.0.1 zs14.cnzz.com
 127.0.0.1 d.qchannel03.cn
+127.0.0.1 static.googleadsserving.cn
 127.0.0.1 mon.ad.xelements.cn
 127.0.0.1 ad.video.51togic.com
 127.0.0.1 ort-stsdk.vivo.com.cn
@@ -1723,6 +1726,7 @@
 127.0.0.1 cloudservice22.kingsoft-office-service.com
 127.0.0.1 bigmobileads.com
 127.0.0.1 wx.sifakaoshi360.com
+127.0.0.1 pagead2.googleadservices.com
 127.0.0.1 ee.j5s9b.cn
 127.0.0.1 gi.gepush.com
 127.0.0.1 c.msn.com
@@ -1737,6 +1741,7 @@
 127.0.0.1 l2.l.qq.com
 127.0.0.1 show.m.mediav.com
 127.0.0.1 static.bshare.cn
+127.0.0.1 ade.googlesyndication.com
 127.0.0.1 adimg.deviantart.net
 127.0.0.1 ad.qq.com
 127.0.0.1 sax.sina.com.cn
@@ -2566,6 +2571,7 @@
 127.0.0.1 d.applovin.com
 127.0.0.1 servicer.mgid.com
 127.0.0.1 adexp.liftoff.io
+127.0.0.1 ads.google.com
 127.0.0.1 dc.webtrends.com
 127.0.0.1 2405.api.swrve.com
 127.0.0.1 collect5081wrdch.deltadna.net
@@ -3021,7 +3027,6 @@
 127.0.0.1 fizzylabs.afftrack.com
 127.0.0.1 cdn.simpli.fi
 127.0.0.1 eventlog.outbrain.com
-127.0.0.1 adservice.google.com
 127.0.0.1 recs.engageya.com
 127.0.0.1 cs.lkqd.net
 127.0.0.1 collect-ap-northeast-1.tealiumiq.com
@@ -3868,6 +3873,7 @@
 127.0.0.1 startappservice.com
 127.0.0.1 remarketingpixel.com
 127.0.0.1 advancelocal.blueconic.net
+127.0.0.1 sdk.open.talk.gepush.com
 127.0.0.1 iotapi.adups.com
 127.0.0.1 ws.inspectlet.com
 127.0.0.1 pangle.io.edgekey.net
@@ -4722,7 +4728,6 @@
 127.0.0.1 cdn.brandmetrics.com
 127.0.0.1 sadc1.outbrain.org
 127.0.0.1 izar.iad-03.braze.com
-127.0.0.1 googlesyndication.com
 127.0.0.1 adservingvpc-1239633584.eu-west-1.elb.amazonaws.com
 127.0.0.1 celtra.com
 127.0.0.1 service-ad-impression-proxy.clusters.pluto.tv
@@ -4855,7 +4860,6 @@
 127.0.0.1 scripts.demandbase.com
 127.0.0.1 tr6.snapchat.com
 127.0.0.1 m7hdh-2damu.ads.tremorhub.com
-127.0.0.1 pagead2.googleadservices.com
 127.0.0.1 partner.ads.placeiq.com
 127.0.0.1 global.telemetry.insights.video.a2z.com
 127.0.0.1 logging.admicro.vn
@@ -5070,7 +5074,6 @@
 127.0.0.1 eks-prod-1c.vungle.com
 127.0.0.1 static-tagr.gd1.mookie1.com
 127.0.0.1 cdnp1.yieldoptimizer.com
-127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 analytics.vendemore.com
 127.0.0.1 log.api.zaloapp.com
 127.0.0.1 adsmogo.mobi
@@ -5810,6 +5813,7 @@
 127.0.0.1 metrics.sdkbox.com
 127.0.0.1 tags.bluekai.com
 127.0.0.1 geoplugin.net
+127.0.0.1 sdk.open.talk.getui.net
 127.0.0.1 telemetry.api.swiftkey.com
 127.0.0.1 ads.dofunapps.com
 127.0.0.1 cdn4.mxpnl.com
@@ -6211,7 +6215,6 @@
 127.0.0.1 app-ab08.marketo.com
 127.0.0.1 brand-sdk.kmsmep.com
 127.0.0.1 tapestry.tapad.com
-127.0.0.1 www.googleadservices.com
 127.0.0.1 in.treasuredata.com
 127.0.0.1 cdn.uc.atwola.com
 127.0.0.1 mobile.ib.sin1.geoadnxs.com
@@ -6561,7 +6564,6 @@
 127.0.0.1 ad.admitad.com
 127.0.0.1 leadboltapps.net
 127.0.0.1 cnn.bounceexchange.com
-127.0.0.1 ade.googlesyndication.com
 127.0.0.1 tracker.adotmob.com
 127.0.0.1 hk-sync.taboola.com
 127.0.0.1 s-img.mgid.com
@@ -6855,7 +6857,6 @@
 127.0.0.1 a556.casalemedia.com
 127.0.0.1 tm.ssl.exelator.com
 127.0.0.1 cfimage.moengage.com
-127.0.0.1 tpc.googlesyndication.com
 127.0.0.1 a3800.casalemedia.com
 127.0.0.1 gateway.answerscloud.com
 127.0.0.1 ariane.abtasty.com
@@ -8067,7 +8068,6 @@
 127.0.0.1 i.isnssdk.com
 127.0.0.1 sdk-ios.ad.smaato.net
 127.0.0.1 adserver.videohub.tv
-127.0.0.1 static.googleadsserving.cn
 127.0.0.1 api.sailthru.com
 127.0.0.1 marketgid.com
 127.0.0.1 innovid.com.edgekey.net
