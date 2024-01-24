@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-01-24 09:04:58
+! Last Modified: 2024-01-24 16:18:07
 ! Homepage: https://github.com/xndeye/adblock_list
 ! 👇This Part Merge from: WindowsSpyBlocker (https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
 0.0.0.0 bn4sch101120911.wns.windows.com
@@ -2446,6 +2446,7 @@
 127.0.0.1 adserving.speedshiftmedia.com
 127.0.0.1 fonts.ad.admitad.com
 127.0.0.1 personalization.centech.glulive.com
+127.0.0.1 pm.w55c.net
 127.0.0.1 a3811.casalemedia.com
 127.0.0.1 crid.bfmio.com
 127.0.0.1 ghent-gce-sc.bidswitch.net
@@ -3285,6 +3286,7 @@
 127.0.0.1 87a6b28bc7823e67a5bb2a0a6728c702afcae78d.cws.conviva.com
 127.0.0.1 a1408.casalemedia.com
 127.0.0.1 load.sumome.com
+127.0.0.1 a.teads.tv
 127.0.0.1 secure.lomadee.com
 127.0.0.1 sdk.iad-03.appboy.com
 127.0.0.1 creative.eagllwin.com
@@ -3956,6 +3958,7 @@
 127.0.0.1 agentchannel.api.duapp.com
 127.0.0.1 xdssp.mediav.com
 127.0.0.1 assets.connatix.com
+127.0.0.1 cdn.taboola.com
 127.0.0.1 ads.icloseli.com
 127.0.0.1 format.prod.cloud.ogury.io
 127.0.0.1 a.tribalfusion.com
@@ -4228,6 +4231,7 @@
 127.0.0.1 srepdata.usatoday.com
 127.0.0.1 pool.adizio.com
 127.0.0.1 mobile-sdk-config.gservice.emarsys.net
+127.0.0.1 i.w55c.net
 127.0.0.1 arm.c.appier.net
 127.0.0.1 sync-eu.connectad.io
 127.0.0.1 sxp.smartclip.net
@@ -9047,7 +9051,6 @@
 127.0.0.1 www.360app.cn
 127.0.0.1 avavwz.com
 127.0.0.1 jsmcrjmp.com
-127.0.0.1 cdn.taboola.com
 127.0.0.1 ehousewife.net
 127.0.0.1 mc.yandex.ru
 127.0.0.1 www.649649.com
@@ -9100,7 +9103,6 @@
 127.0.0.1 www.btjhhb.com
 127.0.0.1 glxccx.hztaida.cn
 127.0.0.1 oztjye4lc.bkt.clouddn.com
-127.0.0.1 pm.w55c.net
 127.0.0.1 www.pj39330.bet
 127.0.0.1 buyu9921.com
 127.0.0.1 ol01l0.andad.work
@@ -9596,7 +9598,6 @@
 127.0.0.1 wap.tanwan.com
 127.0.0.1 wooplr.j8inn1zektoe.com
 127.0.0.1 go.gotourls.bid
-127.0.0.1 i.w55c.net
 127.0.0.1 c19.statcounter.com
 127.0.0.1 p9.tribution.mobi
 127.0.0.1 www.66992949.com
@@ -10724,7 +10725,6 @@
 127.0.0.1 a5677cf.holoiv.com
 127.0.0.1 hntongwang.com
 127.0.0.1 www.266qqq.com
-127.0.0.1 a.teads.tv
 127.0.0.1 homeinformationpacks.j8inn1zektoe.com
 127.0.0.1 ok89okl.com
 127.0.0.1 www.4wad.com
