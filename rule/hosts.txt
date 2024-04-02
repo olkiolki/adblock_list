@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-04-02 09:02:33
+! Last Modified: 2024-04-02 16:17:04
 ! Homepage: https://github.com/xndeye/adblock_list
 ! 👇This Part Merge from: WindowsSpyBlocker (https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
 0.0.0.0 bn4sch101120911.wns.windows.com
@@ -2291,7 +2291,6 @@
 127.0.0.1 buyu9980.com
 127.0.0.1 afp.alicdn.com
 127.0.0.1 down.360safe.com
-127.0.0.1 r.popin.cc
 127.0.0.1 bo.aizhigu8.com
 127.0.0.1 aa.ayasafe.com
 127.0.0.1 wan.2345.com
@@ -2301,7 +2300,6 @@
 127.0.0.1 buyu9946.com
 127.0.0.1 hk-cdn.effectivemeasure.net
 127.0.0.1 okay-dating.com
-127.0.0.1 rlog.popin.cc
 127.0.0.1 www.tt4647.com
 127.0.0.1 dh61677.com
 127.0.0.1 zxd.x9393.com
@@ -2428,7 +2426,6 @@
 127.0.0.1 ms994.com
 127.0.0.1 jbb74.info
 127.0.0.1 perfectgirls.net
-127.0.0.1 rum-static.pingdom.net
 127.0.0.1 youzu.com
 127.0.0.1 a.realsrv.com
 127.0.0.1 pw.cnzz.com
@@ -3507,7 +3504,6 @@
 127.0.0.1 mzlyf.com
 127.0.0.1 it.exoclick.com
 127.0.0.1 qczx1.com
-127.0.0.1 rum-collector.pingdom.net
 127.0.0.1 xmindchina.cn
 127.0.0.1 ad-a.juicyad.com
 127.0.0.1 watchmpacquiaovsjmmarquez3livestream.j8inn1zektoe.com
@@ -4359,6 +4355,7 @@
 127.0.0.1 js.pusher.com
 127.0.0.1 cytroncdn.videojj.com
 127.0.0.1 www.bb-503.com
+127.0.0.1 ap.lijit.com
 127.0.0.1 v29.com
 127.0.0.1 ads7.contentabc.com
 127.0.0.1 2013pan.cn
@@ -4652,7 +4649,6 @@
 127.0.0.1 fkref.com
 127.0.0.1 kuaso.com
 127.0.0.1 aikanvod.miguvideo.com
-127.0.0.1 serve.popads.net
 127.0.0.1 g2.symcb.com
 127.0.0.1 www.30006z.com
 127.0.0.1 www.toutoucao8.com
@@ -4769,7 +4765,6 @@
 127.0.0.1 cdn.sp.rizhao9.com
 127.0.0.1 isite.baidu.com
 127.0.0.1 www.adnxs.com
-127.0.0.1 rum-collector-2.pingdom.net
 127.0.0.1 www.a2.ym193.com
 127.0.0.1 s40.cnzz.com
 127.0.0.1 vns1.net
@@ -5084,12 +5079,14 @@
 127.0.0.1 platform.ssacdn.com
 127.0.0.1 js.idio.co
 127.0.0.1 ds-aksb-a.akamaihd.net
+127.0.0.1 r.popin.cc
 127.0.0.1 assets.mantisadnetwork.com
 127.0.0.1 cdn.quantummetric.com
 127.0.0.1 pix-us.revjet.com
 127.0.0.1 hbx.media.net
 127.0.0.1 tags.adsafety.net
 127.0.0.1 tknet.rayjump.com
+127.0.0.1 rlog.popin.cc
 127.0.0.1 adroll.com
 127.0.0.1 ads.justpremium.com
 127.0.0.1 cdn.microad.jp
@@ -6152,7 +6149,6 @@
 127.0.0.1 sync.mathtag.com
 127.0.0.1 lightstep-collector.api.ua.com
 127.0.0.1 v2.pixel.newscgp.com
-127.0.0.1 ap.lijit.com
 127.0.0.1 entitlements.kochava.com
 127.0.0.1 adtheorent107077183660.s.moatpixel.com
 127.0.0.1 sg-new-ap-southeast-1b-hb.rayjump.com
@@ -8258,6 +8254,7 @@
 127.0.0.1 target2sell.com
 127.0.0.1 encyclopediabritannica.blueconic.net
 127.0.0.1 px.dynamicyield.com
+127.0.0.1 rum-static.pingdom.net
 127.0.0.1 myvisualiq.net
 127.0.0.1 sitegenesis.production.deckers.coremedia.cloud
 127.0.0.1 api.bounceexchange.com
@@ -9503,6 +9500,7 @@
 127.0.0.1 5ew8d-b3mmu.ads.tremorhub.com
 127.0.0.1 worker20.advertnative.com
 127.0.0.1 cw.addthis.com
+127.0.0.1 serve.popads.net
 127.0.0.1 adups.com
 127.0.0.1 tagged-by.rubiconproject.net.akadns.net
 127.0.0.1 ad13.adfarm1.adition.com
@@ -9552,6 +9550,7 @@
 127.0.0.1 platform.iteratehq.com
 127.0.0.1 matomy.com
 127.0.0.1 scarf.ensighten.com
+127.0.0.1 rum-collector-2.pingdom.net
 127.0.0.1 s.update.stickyadstv.com
 127.0.0.1 cdn.n.dynstc.com
 127.0.0.1 connect.scroll.com
@@ -10411,6 +10410,7 @@
 127.0.0.1 stra.hasmobi.net
 127.0.0.1 events-api.otherlevels.com
 127.0.0.1 images-demand.ssacdn.com
+127.0.0.1 rum-collector.pingdom.net
 127.0.0.1 asia-ex-adlog.vivoglobal.com
 127.0.0.1 404mobi.com
 127.0.0.1 mcdp-sadc1.outbrain.com
