@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-04-26 09:01:19
+! Last Modified: 2024-04-26 16:17:15
 ! Homepage: https://github.com/xndeye/adblock_list
 ! 👇This Part Merge from: WindowsSpyBlocker (https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
 0.0.0.0 bn4sch101120911.wns.windows.com
@@ -2145,6 +2145,7 @@
 127.0.0.1 www.22222ke.com
 127.0.0.1 menwww.com
 127.0.0.1 www.93996e.com
+127.0.0.1 js.adsrvr.org
 127.0.0.1 www522.o0-2.com
 127.0.0.1 nqf9.getnewsupdate.info
 127.0.0.1 www.31amjs.com
@@ -2664,6 +2665,7 @@
 127.0.0.1 newdonate.com
 127.0.0.1 s106.cnzz.com
 127.0.0.1 678tube.com
+127.0.0.1 d.agkn.com
 127.0.0.1 www.9tjoh.info
 127.0.0.1 a823.com
 127.0.0.1 ldrtrack.com
@@ -2792,6 +2794,7 @@
 127.0.0.1 t2.symcb.com
 127.0.0.1 s56.cnzz.com
 127.0.0.1 smarterlifefinance.com
+127.0.0.1 fls-na.amazon-adsystem.com
 127.0.0.1 syndication.adk2x.com
 127.0.0.1 www.360app.cn
 127.0.0.1 avavwz.com
@@ -3347,6 +3350,7 @@
 127.0.0.1 wc5575.com
 127.0.0.1 www.vns8989.com
 127.0.0.1 xinhao29.com
+127.0.0.1 tags.bluekai.com
 127.0.0.1 analytics.ad.daum.net
 127.0.0.1 assets.adobedtm.com
 127.0.0.1 node1.atas.io
@@ -3625,6 +3629,7 @@
 127.0.0.1 cms-bucket.ws.126.net
 127.0.0.1 www.11cbb.com
 127.0.0.1 www.adsco.re
+127.0.0.1 cm.adskeeper.co.uk
 127.0.0.1 twmall.sexyno1.com
 127.0.0.1 www.guangyukeji.com
 127.0.0.1 oneid.mmstat.com
@@ -3714,6 +3719,7 @@
 127.0.0.1 syndication.exosrv.com
 127.0.0.1 blr1933.com
 127.0.0.1 count32.51yes.com
+127.0.0.1 mads.amazon-adsystem.com
 127.0.0.1 www.jsshen.com
 127.0.0.1 s123.cnzz.com
 127.0.0.1 static1.bfdcdn.com
@@ -4069,6 +4075,7 @@
 127.0.0.1 count25.51yes.com
 127.0.0.1 toolbar.soso.com
 127.0.0.1 cdn.doublemax.net
+127.0.0.1 insight.adsrvr.org
 127.0.0.1 in.treasuredata.com
 127.0.0.1 help.exoclick.com
 127.0.0.1 mapping.yoyi.com.cn
@@ -4160,6 +4167,7 @@
 127.0.0.1 d.pub.network
 127.0.0.1 dw-collect.ksosoft.com
 127.0.0.1 aka-cdn.adtechus.com
+127.0.0.1 c.amazon-adsystem.com
 127.0.0.1 cdn.innity.net
 127.0.0.1 rigel.baidustatic.com
 127.0.0.1 tu2.ttt669.com
@@ -5420,7 +5428,6 @@
 127.0.0.1 gong-eb.qubit.com
 127.0.0.1 platform-api.sharethis.com
 127.0.0.1 dlt-beacon.dynatrace-managed.com
-127.0.0.1 fls-na.amazon-adsystem.com
 127.0.0.1 emxdgt.com
 127.0.0.1 cdn.revjet.com
 127.0.0.1 tacoda.at.atwola.com
@@ -5834,7 +5841,6 @@
 127.0.0.1 stocks-analytics-events.apple.com
 127.0.0.1 recv-wd.gridsumdissector.com
 127.0.0.1 log.kuwo.cn
-127.0.0.1 cm.adskeeper.co.uk
 127.0.0.1 silver-fir.cd.segmentapis.com
 127.0.0.1 tag.bounceexchange.com
 127.0.0.1 ad-cdn.technoratimedia.com
@@ -6112,7 +6118,6 @@
 127.0.0.1 script.tapfiliate.com
 127.0.0.1 adotube.com
 127.0.0.1 sdk.asapp.com
-127.0.0.1 c.amazon-adsystem.com
 127.0.0.1 4700.api.swrve.com
 127.0.0.1 a1234.casalemedia.com
 127.0.0.1 pool-mediafin.adhese.com
@@ -6601,7 +6606,6 @@
 127.0.0.1 nr-events.taboola.com
 127.0.0.1 7f077.v.fwmrm.net
 127.0.0.1 wildcard.marketo.net.edgekey.net
-127.0.0.1 js.adsrvr.org
 127.0.0.1 a3485.casalemedia.com
 127.0.0.1 cm.adsafety.net
 127.0.0.1 a.adsrvr.org
@@ -8420,7 +8424,6 @@
 127.0.0.1 s.206ads.com
 127.0.0.1 wtag.adaptv.advertising.com
 127.0.0.1 cdnstoremedia.com
-127.0.0.1 d.agkn.com
 127.0.0.1 oc.umeng.co
 127.0.0.1 api.magmamobile.com
 127.0.0.1 c.oracleinfinity.io.edgekey.net
@@ -8788,7 +8791,6 @@
 127.0.0.1 aksdk-images.adikteev.com
 127.0.0.1 tracking.onefeed.co.uk
 127.0.0.1 metrics.sdkbox.com
-127.0.0.1 tags.bluekai.com
 127.0.0.1 geoplugin.net
 127.0.0.1 telemetry.api.swiftkey.com
 127.0.0.1 ads.dofunapps.com
@@ -8983,7 +8985,6 @@
 127.0.0.1 assets.narvar.com
 127.0.0.1 3ppa.jp.cinarra.com
 127.0.0.1 js.rfp.fout.jp
-127.0.0.1 mads.amazon-adsystem.com
 127.0.0.1 prod.adjoe.zone
 127.0.0.1 cdn.blisspointmedia.com
 127.0.0.1 tracking.intl.miui.com
@@ -10697,7 +10698,6 @@
 127.0.0.1 static.startappservice.com
 127.0.0.1 mobile.yandexadexchange.net
 127.0.0.1 cdn-akamai.mookie1.com
-127.0.0.1 insight.adsrvr.org
 127.0.0.1 api.adtimaserver.vn
 127.0.0.1 1170.api.swrve.com
 127.0.0.1 addelivery-engine-api.voodoo-ads.io
