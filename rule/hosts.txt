@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-07-09 09:08:19
+! Last Modified: 2024-07-09 16:17:49
 ! Homepage: https://github.com/xndeye/adblock_list
 ! 👇This Part Merge from: WindowsSpyBlocker (https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
 0.0.0.0 bn4sch101120911.wns.windows.com
@@ -2030,6 +2030,7 @@
 127.0.0.1 kb.youzu.com
 127.0.0.1 www.771ka.com
 127.0.0.1 www.11111qu.com
+127.0.0.1 etahub.com
 127.0.0.1 www.68293.com
 127.0.0.1 v7.cnzz.com
 127.0.0.1 nzfc.2zm4.cn
@@ -2134,6 +2135,7 @@
 127.0.0.1 shop.spyoff.com
 127.0.0.1 static.uuzu.com
 127.0.0.1 vns8yhn.com
+127.0.0.1 us-u.openx.net
 127.0.0.1 engine.spotscenered.info
 127.0.0.1 update.123juzi.net
 127.0.0.1 mgid.com
@@ -2258,6 +2260,7 @@
 127.0.0.1 whatsforsupper-juno.j8inn1zektoe.com
 127.0.0.1 www.203710.com
 127.0.0.1 lowtyroguer.com
+127.0.0.1 optimize.innity.com
 127.0.0.1 update.wps.cn
 127.0.0.1 javbox888.com
 127.0.0.1 clickjs.cnzz.com
@@ -2540,6 +2543,7 @@
 127.0.0.1 api.juicyads.com
 127.0.0.1 h99998888.com
 127.0.0.1 www.mycleanmymac.com
+127.0.0.1 cdn.flurry.com
 127.0.0.1 www.4242lll.com
 127.0.0.1 gm.mmstat.com
 127.0.0.1 hjc1990.com
@@ -2903,6 +2907,7 @@
 127.0.0.1 reallatinaexposed.com
 127.0.0.1 c38.statcounter.com
 127.0.0.1 weixin0452.com
+127.0.0.1 ads.contentabc.com
 127.0.0.1 360cc.cn
 127.0.0.1 c5.statcounter.com
 127.0.0.1 buyu9932.com
@@ -3325,6 +3330,7 @@
 127.0.0.1 wc5575.com
 127.0.0.1 www.vns8989.com
 127.0.0.1 xinhao29.com
+127.0.0.1 analytics.ad.daum.net
 127.0.0.1 assets.adobedtm.com
 127.0.0.1 node1.atas.io
 127.0.0.1 yo234.com
@@ -3531,6 +3537,7 @@
 127.0.0.1 caoshunv.com
 127.0.0.1 appcdn.wapx.cn
 127.0.0.1 s48.cnzz.com
+127.0.0.1 cdn.districtm.io
 127.0.0.1 pay.tx1799.com
 127.0.0.1 c4.statcounter.com
 127.0.0.1 cdn1.res.nx5.com
@@ -4050,6 +4057,7 @@
 127.0.0.1 www.keyshot.cc
 127.0.0.1 tx2play1.douyucdn.cn
 127.0.0.1 hm3.cnzz.com
+127.0.0.1 media.innity.net
 127.0.0.1 vz-cdn.trafficjunky.net
 127.0.0.1 cootek-file.cdn.cootekservice.com
 127.0.0.1 www.50508894.com
@@ -4339,6 +4347,7 @@
 127.0.0.1 apipool.youzu.com
 127.0.0.1 f5.mtqys.com
 127.0.0.1 platform.adsymptotic.com
+127.0.0.1 c.go-mpulse.net
 127.0.0.1 buyu903.com
 127.0.0.1 www.538porn.com
 127.0.0.1 s100.cnzz.com
@@ -4399,6 +4408,7 @@
 127.0.0.1 s77.cnzz.com
 127.0.0.1 access.watchmygirlfriend.tv
 127.0.0.1 ad.aspm.jp
+127.0.0.1 ad.crwdcntrl.net
 127.0.0.1 uux68.com
 127.0.0.1 ad.dmm.com
 127.0.0.1 www.v8816.com
@@ -4786,6 +4796,7 @@
 127.0.0.1 lyf.com
 127.0.0.1 www.537901.com
 127.0.0.1 www.9vns8.com
+127.0.0.1 dl.ijinshan.com
 127.0.0.1 cap.touclick.com
 127.0.0.1 ad2.contentabc.com
 127.0.0.1 bite.theta.sogoucdn.com
@@ -4983,7 +4994,6 @@
 127.0.0.1 em.dynamicyield.com
 127.0.0.1 i.singular.net
 127.0.0.1 pixels.adzmedia.com
-127.0.0.1 etahub.com
 127.0.0.1 s.moatpixel.com
 127.0.0.1 clean.adups.com
 127.0.0.1 apsoutheast-match.deepintent.com
@@ -6026,7 +6036,6 @@
 127.0.0.1 r1.visualwebsiteoptimizer.com
 127.0.0.1 serving.ad.org.vn
 127.0.0.1 pixel-apac.rubiconproject.net.akadns.net
-127.0.0.1 media.innity.net
 127.0.0.1 adsbynimbus.com
 127.0.0.1 td.yieldify.com
 127.0.0.1 us1.wzrkt.com
@@ -6561,7 +6570,6 @@
 127.0.0.1 mb-cdn.stocard.de
 127.0.0.1 cdn.permutive.com
 127.0.0.1 nr-events.taboola.com
-127.0.0.1 us-u.openx.net
 127.0.0.1 7f077.v.fwmrm.net
 127.0.0.1 wildcard.marketo.net.edgekey.net
 127.0.0.1 js.adsrvr.org
@@ -6795,7 +6803,6 @@
 127.0.0.1 sms.mob.com
 127.0.0.1 adx-asia.aarki.net
 127.0.0.1 tutoads.tv
-127.0.0.1 cdn.flurry.com
 127.0.0.1 challenge.360in.com
 127.0.0.1 opx-winners-us-east-1-rtb.adroll.com
 127.0.0.1 sync.ads.yieldmo.com
@@ -7171,7 +7178,6 @@
 127.0.0.1 api2.okanjo.com
 127.0.0.1 st-a.anthill.vn
 127.0.0.1 cdn.spotxcdn.com.edgekey.net
-127.0.0.1 analytics.ad.daum.net
 127.0.0.1 a-reporting.nytimes.com
 127.0.0.1 ets-ap-southeast-1.track.smaato.net
 127.0.0.1 webhook.logentries.com
@@ -8866,7 +8872,6 @@
 127.0.0.1 com-upday-main.collector.snplow.net
 127.0.0.1 tkportal.aotter.net
 127.0.0.1 sync.rfp.fout.jp
-127.0.0.1 cdn.districtm.io
 127.0.0.1 scribe.logs.roku.com
 127.0.0.1 pre-usermatch.targeting.unrulymedia.com
 127.0.0.1 gbc7.da.us.criteo.com
@@ -9303,7 +9308,6 @@
 127.0.0.1 a3868.casalemedia.com
 127.0.0.1 services.serving-sys.com
 127.0.0.1 connect-metrics-collector.s-onetag.com
-127.0.0.1 c.go-mpulse.net
 127.0.0.1 cdn.firstimpression.io
 127.0.0.1 a3791.casalemedia.com
 127.0.0.1 api.webengage.com
@@ -9775,7 +9779,6 @@
 127.0.0.1 tracking.yomedia.vn
 127.0.0.1 southwestairlines.tt.omtrdc.net
 127.0.0.1 tealiumiq.com
-127.0.0.1 optimize.innity.com
 127.0.0.1 tags.mathtag.com
 127.0.0.1 uefa.pushwoosh.com
 127.0.0.1 iadctest.qwapi.com
@@ -10115,7 +10118,6 @@
 127.0.0.1 pg-prebid-server.rubiconproject.com
 127.0.0.1 wf.taboola.com
 127.0.0.1 appinfo.adop.cc
-127.0.0.1 ads.contentabc.com
 127.0.0.1 prod.criteo.net
 127.0.0.1 avp.innity.com
 127.0.0.1 tp-emea.exactag.com
@@ -10871,7 +10873,6 @@
 127.0.0.1 itx4.smartadserver.com
 127.0.0.1 c00162-dl.urbanairship.com
 127.0.0.1 app.push-ad.com
-127.0.0.1 ad.crwdcntrl.net
 127.0.0.1 fw.adsafeprotected.com
 127.0.0.1 bridge.sfo1.admarketplace.net
 127.0.0.1 adsinter1.addealsnetwork.com
@@ -11079,7 +11080,6 @@
 127.0.0.1 contentstream.pl
 127.0.0.1 hk.as.criteo.net
 127.0.0.1 idpix.media6degrees.com
-127.0.0.1 dl.ijinshan.com
 127.0.0.1 admitad.com
 127.0.0.1 sinkhole.netmng.com
 127.0.0.1 nappyattack.com
