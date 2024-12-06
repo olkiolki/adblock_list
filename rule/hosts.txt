@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-12-06 16:23:48
+! Last Modified: 2024-12-07 00:22:35
 ! Homepage: https://github.com/xndeye/adblock_list
 ! 👇This Part Merge from: WindowsSpyBlocker (https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
 0.0.0.0 bn4sch101120911.wns.windows.com
@@ -3785,7 +3785,6 @@
 127.0.0.1 api.popin.cc
 127.0.0.1 karonty.com
 127.0.0.1 speednetwork14.adk2x.com
-127.0.0.1 tw-gmtdmp.mookie1.com
 127.0.0.1 galaxy.sogoucdn.com
 127.0.0.1 yyy.pp1500.com
 127.0.0.1 www.fastclick.com
@@ -3830,7 +3829,6 @@
 127.0.0.1 msoftdl.360.cn
 127.0.0.1 safeken.com
 127.0.0.1 cdn.g.wan.douyu.com
-127.0.0.1 sync.logly.co.jp
 127.0.0.1 yiren02.com
 127.0.0.1 abcu2lk.fun
 127.0.0.1 s122.cnzz.com
@@ -4341,6 +4339,7 @@
 127.0.0.1 apipool.youzu.com
 127.0.0.1 f5.mtqys.com
 127.0.0.1 platform.adsymptotic.com
+127.0.0.1 c.go-mpulse.net
 127.0.0.1 buyu903.com
 127.0.0.1 www.538porn.com
 127.0.0.1 s100.cnzz.com
@@ -4375,7 +4374,6 @@
 127.0.0.1 click.gridsumdissector.com
 127.0.0.1 cdn.adriver.ru
 127.0.0.1 sa1.tuisong.baidu.com
-127.0.0.1 sync.mathtag.com
 127.0.0.1 www.a823.com
 127.0.0.1 web.adriver.ru
 127.0.0.1 cdn.outfit7.com
@@ -6176,6 +6174,7 @@
 127.0.0.1 datacollector-dra.dt.dbankcloud.cn
 127.0.0.1 cm.gammaplatform.com
 127.0.0.1 am-sync.taboola.com
+127.0.0.1 sync.mathtag.com
 127.0.0.1 lightstep-collector.api.ua.com
 127.0.0.1 v2.pixel.newscgp.com
 127.0.0.1 entitlements.kochava.com
@@ -7427,6 +7426,7 @@
 127.0.0.1 so.rlcdn.com
 127.0.0.1 e-10220.adzerk.net
 127.0.0.1 c.hrzn-nxt.com
+127.0.0.1 tw-gmtdmp.mookie1.com
 127.0.0.1 tacoda.net
 127.0.0.1 local.ownlocal.com
 127.0.0.1 async-px.dynamicyield.com
@@ -9044,6 +9044,7 @@
 127.0.0.1 sin01-search.spotxchange.com
 127.0.0.1 a3863.casalemedia.com
 127.0.0.1 collect.igodigital.com
+127.0.0.1 sync.logly.co.jp
 127.0.0.1 gatr.hit.gemius.pl
 127.0.0.1 amp.adpushup.com
 127.0.0.1 metrics.brightcove.com
@@ -9304,7 +9305,6 @@
 127.0.0.1 a3868.casalemedia.com
 127.0.0.1 services.serving-sys.com
 127.0.0.1 connect-metrics-collector.s-onetag.com
-127.0.0.1 c.go-mpulse.net
 127.0.0.1 cdn.firstimpression.io
 127.0.0.1 a3791.casalemedia.com
 127.0.0.1 api.webengage.com
@@ -11179,9 +11179,6 @@
 127.0.0.1 fp3.ads.stickyadstv.com.akadns.net
 127.0.0.1 sdkupgrade.insight.ucweb.com
 127.0.0.1 secure-sdk.imrworldwide.com
-! 👇This Part Merge from: 1007保留广告奖励 (https://raw.githubusercontent.com/lingeringsound/10007_auto/master/adb.txt)
-127.0.0.2 localhost^
-127.0.0.3 localhost^
 ! 👇This Part Merge from: neoHosts (https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/full/hosts.txt)
 0.0.0.0 hzs7.cnzz.com
 0.0.0.0 ubmcmm.baidustatic.com
@@ -15932,3 +15929,6 @@
 0.0.0.0 play.malictuiar.com
 0.0.0.0 afptrack.alimama.com
 0.0.0.0 c1.ifengimg.com
+! 👇This Part Merge from: 1007保留广告奖励 (https://raw.githubusercontent.com/lingeringsound/10007_auto/master/adb.txt)
+127.0.0.2 localhost^
+127.0.0.3 localhost^
