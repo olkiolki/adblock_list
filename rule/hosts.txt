@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2025-01-11 09:19:01
+! Last Modified: 2025-01-11 16:19:48
 ! Homepage: https://github.com/xndeye/adblock_list
 ! 👇This Part Merge from: WindowsSpyBlocker (https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
 0.0.0.0 bn4sch101120911.wns.windows.com
@@ -3226,7 +3226,6 @@
 127.0.0.1 rekovers.ru
 127.0.0.1 sha2024.com
 127.0.0.1 trackadsb1.com
-127.0.0.1 ads.yieldmo.com
 127.0.0.1 get-fuck-tonight-us4-foryou.dailynews.ovh
 127.0.0.1 fanqianbb.com
 127.0.0.1 ck.jads.co
@@ -8705,6 +8704,7 @@
 127.0.0.1 tnc16-useast1a.isnssdk.com
 127.0.0.1 owb101.goo.ne.jp
 127.0.0.1 config.sdk.scopely.io
+127.0.0.1 ads.yieldmo.com
 127.0.0.1 sync.adap.tv
 127.0.0.1 adserver.iprom.net
 127.0.0.1 ext-inv-cdn.prod.cloud.ogury.io
