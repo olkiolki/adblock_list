@@ -1,27 +1,7 @@
 [xndeye Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-03-01 00:22:07
+! Last Modified: 2025-03-01 09:25:35
 ! Homepage: https://github.com/xndeye/adblock_list
-! 👇This Part Merge from: AdGuard 防跟踪保护过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt)
-||mssdk*.zijieapi.com^
-||collect-v*.51.la^
-||browser-intake-*-datadoghq.com^
-||rum*.a.trbcdn.net^
-||polaris*-normal-*.zijieapi.com^
-||stat.tiara.
-||tnc*.zijieapi.com^
-||sock*-goguardian.pusher.com^
-||pixel-*.convertagain.net^
-||log*.zijieapi.com^
-||analytics*.prezly.com^
-||collector-*.tvsquared.com^
-||px*.mediahills.ru^
-||pixelapi-*.cs.mysamba.tv^
-||stats*.videonow.ru^
-||collector*.ex.co^
-||track.tiara.
-||analytics*.clickdimensions.com^
-||rum*.cdnvideo.ru^
 ! 👇This Part Merge from: AdGuard 中文过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt)
 ||38.33.15.*.gif
 ||zhizhizhizhi.oss-*.aliyuncs.com^
@@ -80,6 +60,26 @@
 ||adcs-*.myappsget.com^
 ! 👇This Part Merge from: AdGuard 社交媒体过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_4_Social/filter.txt)
 lj_bookmarklet
+! 👇This Part Merge from: AdGuard 防跟踪保护过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt)
+||mssdk*.zijieapi.com^
+||collect-v*.51.la^
+||browser-intake-*-datadoghq.com^
+||rum*.a.trbcdn.net^
+||polaris*-normal-*.zijieapi.com^
+||stat.tiara.
+||tnc*.zijieapi.com^
+||sock*-goguardian.pusher.com^
+||pixel-*.convertagain.net^
+||log*.zijieapi.com^
+||analytics*.prezly.com^
+||collector-*.tvsquared.com^
+||px*.mediahills.ru^
+||pixelapi-*.cs.mysamba.tv^
+||stats*.videonow.ru^
+||collector*.ex.co^
+||track.tiara.
+||analytics*.clickdimensions.com^
+||rum*.cdnvideo.ru^
 ! 👇This Part Merge from: AdGuard 中文过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt)
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
@@ -117,12 +117,12 @@ lj_bookmarklet
 @@||register*mi.com^
 @@||resolver*mi.com^
 @@||p*-ppx.byteimg.com^
-! 👇This Part Merge from: 1007保留广告奖励 (https://raw.githubusercontent.com/lingeringsound/10007_auto/master/adb.txt)
-||mishop.pandora.xiaomi.com.^
 ! 👇This Part Merge from: halflife-list (https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt)
 ||get-me-wow.
 ! 👇This Part Merge from: AdGuard 恼人广告过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt)
 ||widgets.*.webengage.com^
+! 👇This Part Merge from: 1007保留广告奖励 (https://raw.githubusercontent.com/lingeringsound/10007_auto/master/adb.txt)
+||mishop.pandora.xiaomi.com.^
 ! 👇This Part Merge from: AdGuard 防跟踪保护过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt)
 ||pixel*.production-public.tubi.io^
 ||mssdk*.capcutapi.com^
@@ -181,6 +181,7 @@ lj_bookmarklet
 ||cnt.hd21.
 |load.sgtm.
 |piwik.
+||logger-*.dailymotion.com^
 ||ce-global-track-*.amazonaws.com^
 ||device-metrics-us*.amazon.com^
 ||ana*.inews24.com^
@@ -209,6 +210,7 @@ lj_bookmarklet
 ||ads-dmp-collect.*.karrotmarket.com^
 ||mssdk*.tiktokv.eu^
 ||clickstream-*.homedepot.com^
+||log*.aliyuncs.com^
 ||button.blogs.yandex.
 ||collector.xhamster*.
 ||analyzer*.fc2.com^
@@ -216,18 +218,23 @@ lj_bookmarklet
 ||host*.rigbyandpeller.com^
 ||servo-report.keepstreams.*^
 ||analytics.*.sky.com^
+! 👇This Part Merge from: halflife-list (https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt)
+||158.247.208.
+||23.109.82.
+||142.91.159.
+||cas.*.criteo.com^
+||allsportsflix.
+||23.109.87.
 ! 👇This Part Merge from: AdGuard 防跟踪保护过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt)
 ||mobileanalytics.*.amazonaws.com^
 ||auth-*.hismarttv.com^
 ||t*.zcvh.net^
 ||metric*.rediff.com^
 ||pixel*.adswizz.com
-||logger-*.dailymotion.com^
 ||tracking*.euroads.fi^
 ||tracking.olx.
 ||trk*.vidible.tv^
 ||track.zalando.
-||log*.aliyuncs.com^
 ||ssp*.rtb.beeline.ru^
 ||stat*.1internet.tv^
 ||st-*.dynamicyield.com^
@@ -238,18 +245,11 @@ lj_bookmarklet
 ||tw*.netcore.co.in^
 ||api-*.hismarttv.com^
 ! 👇This Part Merge from: halflife-list (https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt)
-||158.247.208.
-||23.109.82.
-||142.91.159.
-||cas.*.criteo.com^
-||allsportsflix.
-||23.109.87.
-! 👇This Part Merge from: AdGuard 恼人广告过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt)
-||chat*-ce.chatdealer.jp^
-! 👇This Part Merge from: halflife-list (https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt)
 ||util-*.simply-hentai.com^
 ||centent.streamp1ay.
 ||cintent.streanplay.
+! 👇This Part Merge from: AdGuard 恼人广告过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt)
+||chat*-ce.chatdealer.jp^
 ! 👇This Part Merge from: halflife-list (https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt)
 ||bc.geocities.
 ||stats-*.p2pnow.ru^
@@ -287,6 +287,8 @@ lj_bookmarklet
 ||advert*.livesportmedia.eu^
 ||itechpost.com*adbk
 ||prebid-*.rubiconproject.com^
+! 👇This Part Merge from: AdGuard 基础过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt)
+||pijama.*.elasticbeanstalk.com^
 ! 👇This Part Merge from: AdGuard 防跟踪保护过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt)
 esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 %2Fs-links.producthunt.com%2Foo%2F*%2Fe.gif
@@ -345,8 +347,6 @@ directtrack.*.js
 ||flurry.agentportal-*.yahoodns.net^
 ||log*.byteoversea.com^
 ||mon*-misc-lf.fqnovel.com^
-! 👇This Part Merge from: AdGuard 基础过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt)
-||pijama.*.elasticbeanstalk.com^
 ! 👇This Part Merge from: AdGuard 基础过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt)
 ||fapnado.*.php|
 Banner468x60
