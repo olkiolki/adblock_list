@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2025-03-06 09:21:51
+! Last Modified: 2025-03-06 16:22:46
 ! Homepage: https://github.com/xndeye/adblock_list
 ! 👇This Part Merge from: WindowsSpyBlocker (https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
 0.0.0.0 bn4sch101120911.wns.windows.com
@@ -2008,6 +2008,7 @@
 127.0.0.1 a.o333o.com
 127.0.0.1 c18.statcounter.com
 127.0.0.1 nvkrm.imideals.com
+127.0.0.1 as-sec.casalemedia.com
 127.0.0.1 mop1.pyzhtj.com
 127.0.0.1 sa909.com
 127.0.0.1 yimingkennel.com
@@ -2971,6 +2972,7 @@
 127.0.0.1 count17.51yes.com
 127.0.0.1 s138.cnzz.com
 127.0.0.1 www.jihehuaban.com.cn
+127.0.0.1 bttrack.com
 127.0.0.1 dtscout.rtb.adx1.com
 127.0.0.1 www.qbdgame.com
 127.0.0.1 wds.inte.sogoucdn.com
@@ -4296,6 +4298,7 @@
 127.0.0.1 edu.jujiaxiansheng.com
 127.0.0.1 c.wuliu800.com.cn
 127.0.0.1 lehu910.com
+127.0.0.1 match.deepintent.com
 127.0.0.1 tdsjsext.com
 127.0.0.1 dl.liebao.cn
 127.0.0.1 sdk.cdnmaster.com
@@ -5511,7 +5514,6 @@
 127.0.0.1 events.tabmo.io
 127.0.0.1 fcanr.tracking.miui.com
 127.0.0.1 mozbar.moz.com
-127.0.0.1 bttrack.com
 127.0.0.1 partner.knorex.com
 127.0.0.1 pie.wirelessregistry.com
 127.0.0.1 bktr2-06hdl.ads.tremorhub.com
@@ -8035,7 +8037,6 @@
 127.0.0.1 a3559.casalemedia.com
 127.0.0.1 locate.pricespider.com
 127.0.0.1 sdk.inmobi.com
-127.0.0.1 as-sec.casalemedia.com
 127.0.0.1 lonrtp1.marketo.com
 127.0.0.1 sync.adtelligent.com
 127.0.0.1 static.adtelligent.com
@@ -10819,7 +10820,6 @@
 127.0.0.1 prod-m-node-3111.ssp.advertising.com
 127.0.0.1 open.isnssdk.com
 127.0.0.1 resources.taboola.com
-127.0.0.1 match.deepintent.com
 127.0.0.1 static2.chartbeat.com
 127.0.0.1 5-9-5-ios.userflows.ingest.crittercism.com
 127.0.0.1 cdn.revcontent.com
