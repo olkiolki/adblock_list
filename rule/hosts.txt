@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2025-04-12 16:21:15
+! Last Modified: 2025-04-13 00:20:24
 ! Homepage: https://github.com/xndeye/adblock_list
 ! 👇This Part Merge from: WindowsSpyBlocker (https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
 0.0.0.0 bn4sch101120911.wns.windows.com
@@ -3181,7 +3181,6 @@
 127.0.0.1 adserver-east.extend.tv
 127.0.0.1 sandbox.tinypass.com
 127.0.0.1 js.center.io
-127.0.0.1 ads.pro-market.net
 127.0.0.1 stats.sxp.smartclip.net
 127.0.0.1 engageya.com
 127.0.0.1 in-spiky.wzrkt.com
@@ -3601,7 +3600,6 @@
 127.0.0.1 cdn.permutive.com
 127.0.0.1 nr-events.taboola.com
 127.0.0.1 us-u.openx.net
-127.0.0.1 engine.spotscenered.info
 127.0.0.1 7f077.v.fwmrm.net
 127.0.0.1 wildcard.marketo.net.edgekey.net
 127.0.0.1 js.adsrvr.org
@@ -4360,7 +4358,6 @@
 127.0.0.1 global.ymtracking.com
 127.0.0.1 stas.outbrain.com
 127.0.0.1 cdn.parsely.com
-127.0.0.1 stats3.unrulymedia.com
 127.0.0.1 api.target2sell.com
 127.0.0.1 pasta.estrongspro.duapps.com
 127.0.0.1 img.apester.com
@@ -5590,7 +5587,6 @@
 127.0.0.1 appload.ingest.crittercism.com
 127.0.0.1 int.vaicore.site
 127.0.0.1 p.presage.io
-127.0.0.1 cdn-settings.segment.com
 127.0.0.1 sdk-info.gimbal.com
 127.0.0.1 decide.mixpanel.com
 127.0.0.1 ad-emea.doubleclick.net
@@ -5602,7 +5598,6 @@
 127.0.0.1 sjrtp6.marketo.com
 127.0.0.1 info.static.startappservice.com
 127.0.0.1 cdn.3lift.com
-127.0.0.1 a.pub.network
 127.0.0.1 g2c.cloud-elements.com
 127.0.0.1 cdn-3.convertexperiments.com
 127.0.0.1 adscale-emea.adnxs.com
@@ -5628,7 +5623,6 @@
 127.0.0.1 www.srmdata-us.com
 127.0.0.1 dat.funheroic.com
 127.0.0.1 dcinfos-cache.abtasty.com
-127.0.0.1 sp.analytics.yahoo.com
 127.0.0.1 bidr.io
 127.0.0.1 zplayer.trk.zapps.vn
 127.0.0.1 b.ns1p.net
@@ -6918,7 +6912,6 @@
 127.0.0.1 sg01.rayjump.com
 127.0.0.1 apitm.toolmatrix.plus
 127.0.0.1 gtm04.nexac.com
-127.0.0.1 services.xg4ken.com
 127.0.0.1 hearst.amp.permutive.com
 127.0.0.1 ws.push-notifs.com
 127.0.0.1 events.tremorhub.com
@@ -7371,7 +7364,6 @@
 127.0.0.1 log.sina.cn
 127.0.0.1 iad-06.braze.com
 127.0.0.1 hk-match.taboola.com
-127.0.0.1 bk.r-ad.ne.jp
 127.0.0.1 fl.a.ki
 127.0.0.1 iqdigital.demdex.net
 127.0.0.1 q.myvisualiq.net
@@ -8417,6 +8409,7 @@
 127.0.0.1 shop.spyoff.com
 127.0.0.1 static.uuzu.com
 127.0.0.1 vns8yhn.com
+127.0.0.1 engine.spotscenered.info
 127.0.0.1 update.123juzi.net
 127.0.0.1 mgid.com
 127.0.0.1 www.22222ke.com
@@ -8645,6 +8638,7 @@
 127.0.0.1 gif.lu.sogoucdn.com
 127.0.0.1 pushance.com
 127.0.0.1 xsa1.qwertdd.pw
+127.0.0.1 services.xg4ken.com
 127.0.0.1 www.beyondcompare.cc
 127.0.0.1 myhome.j8inn1zektoe.com
 127.0.0.1 s18.cnzz.com
@@ -9110,6 +9104,7 @@
 127.0.0.1 xmh-resc.9icph.cn
 127.0.0.1 www.extreme3d.games
 127.0.0.1 img1.mini.cache.wps.cn
+127.0.0.1 cdn-settings.segment.com
 127.0.0.1 reallesbianexposed.com
 127.0.0.1 www.houxingfu.com
 127.0.0.1 buyu011.com
@@ -9140,6 +9135,7 @@
 127.0.0.1 www.7089gg.com
 127.0.0.1 www.chntdnc.cn
 127.0.0.1 coinhive.com
+127.0.0.1 a.pub.network
 127.0.0.1 doublemax.net
 127.0.0.1 www.vns4394.com
 127.0.0.1 z.dwchaha.com
@@ -9178,6 +9174,7 @@
 127.0.0.1 homepage2.adnxs.com
 127.0.0.1 bongacams.com
 127.0.0.1 openbox.mobilem.360.cn
+127.0.0.1 sp.analytics.yahoo.com
 127.0.0.1 chinemiss.com
 127.0.0.1 sexy557.com
 127.0.0.1 buyu902.com
@@ -9542,6 +9539,7 @@
 127.0.0.1 api.share.baidu.com
 127.0.0.1 jihehuaban.com.cn
 127.0.0.1 www.papapa.tv
+127.0.0.1 bk.r-ad.ne.jp
 127.0.0.1 clicklog.moviebox.baofeng.net
 127.0.0.1 hg417.bet
 127.0.0.1 yihuifu.cn
@@ -9854,6 +9852,7 @@
 127.0.0.1 wpc.32df9.rhocdn.net
 127.0.0.1 secure.fastclick.net
 127.0.0.1 count50.51yes.com
+127.0.0.1 stats3.unrulymedia.com
 127.0.0.1 mobile.beike188.com
 127.0.0.1 sobar.baidu.com
 127.0.0.1 www.boma686.com
@@ -10527,6 +10526,7 @@
 127.0.0.1 www.7969sj.com
 127.0.0.1 www.xmtrk.com
 127.0.0.1 pcstore.com.tw
+127.0.0.1 ads.pro-market.net
 127.0.0.1 vns4392.com
 127.0.0.1 count22.51yes.com
 127.0.0.1 t.frtyk.com
