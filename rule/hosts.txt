@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2025-06-21 00:24:25
+! Last Modified: 2025-06-21 09:39:02
 ! Homepage: https://github.com/xndeye/adblock_list
 ! 👇This Part Merge from: WindowsSpyBlocker (https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
 0.0.0.0 bn4sch101120911.wns.windows.com
@@ -2030,7 +2030,6 @@
 127.0.0.1 kb.youzu.com
 127.0.0.1 www.771ka.com
 127.0.0.1 www.11111qu.com
-127.0.0.1 etahub.com
 127.0.0.1 www.68293.com
 127.0.0.1 v7.cnzz.com
 127.0.0.1 nzfc.2zm4.cn
@@ -2617,7 +2616,6 @@
 127.0.0.1 as.innity.com
 127.0.0.1 3dns-3.adobe.com
 127.0.0.1 shadu.baidu.com
-127.0.0.1 rp.gwallet.com
 127.0.0.1 www.lucky288.com
 127.0.0.1 whatsonthebookshelf-jen.j8inn1zektoe.com
 127.0.0.1 www.21365u.com
@@ -3538,7 +3536,6 @@
 127.0.0.1 caoshunv.com
 127.0.0.1 appcdn.wapx.cn
 127.0.0.1 s48.cnzz.com
-127.0.0.1 cdn.districtm.io
 127.0.0.1 pay.tx1799.com
 127.0.0.1 c4.statcounter.com
 127.0.0.1 cdn1.res.nx5.com
@@ -4402,7 +4399,6 @@
 127.0.0.1 affrh2022.com
 127.0.0.1 ruten.com.tw
 127.0.0.1 update.360safe.com
-127.0.0.1 s10.histats.com
 127.0.0.1 g2.gumgum.com
 127.0.0.1 mo.res.wpscdn.cn
 127.0.0.1 poweredby.jads.co
@@ -4465,7 +4461,6 @@
 127.0.0.1 www.394394.com
 127.0.0.1 ads.ck101.com
 127.0.0.1 wan.panda.tv
-127.0.0.1 rtb.gumgum.com
 127.0.0.1 www.9941777.com
 127.0.0.1 dynsrv.wps.cn
 127.0.0.1 s98.cnzz.com
@@ -5001,6 +4996,7 @@
 127.0.0.1 em.dynamicyield.com
 127.0.0.1 i.singular.net
 127.0.0.1 pixels.adzmedia.com
+127.0.0.1 etahub.com
 127.0.0.1 s.moatpixel.com
 127.0.0.1 clean.adups.com
 127.0.0.1 apsoutheast-match.deepintent.com
@@ -6231,6 +6227,7 @@
 127.0.0.1 yt.mmstat.com
 127.0.0.1 eum-orange-saas.instana.io
 127.0.0.1 rtr.innovid.com
+127.0.0.1 rtb.gumgum.com
 127.0.0.1 rat.nl.eu.criteo.com
 127.0.0.1 gateway.ttpsdk.info
 127.0.0.1 d.adsplay.net
@@ -8876,6 +8873,7 @@
 127.0.0.1 com-upday-main.collector.snplow.net
 127.0.0.1 tkportal.aotter.net
 127.0.0.1 sync.rfp.fout.jp
+127.0.0.1 cdn.districtm.io
 127.0.0.1 scribe.logs.roku.com
 127.0.0.1 pre-usermatch.targeting.unrulymedia.com
 127.0.0.1 gbc7.da.us.criteo.com
@@ -9333,6 +9331,7 @@
 127.0.0.1 vdopia.com
 127.0.0.1 track.linksynergy.com
 127.0.0.1 ads.adthrive.com
+127.0.0.1 s10.histats.com
 127.0.0.1 sgfw.adsafeprotected.com
 127.0.0.1 hb.adscale.de
 127.0.0.1 tempest.services.disqus.com
@@ -9969,6 +9968,7 @@
 127.0.0.1 ganon.yahoo.com
 127.0.0.1 asset.pagefair.com
 127.0.0.1 juiceadv.com
+127.0.0.1 rp.gwallet.com
 127.0.0.1 ca-lapresse-main.collector.snplow.net
 127.0.0.1 lax-1-sync.go.sonobi.com
 127.0.0.1 sdk.loveota.net
