@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2025-06-30 00:22:37
+! Last Modified: 2025-06-30 09:47:04
 ! Homepage: https://github.com/xndeye/adblock_list
 ! 👇This Part Merge from: WindowsSpyBlocker (https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
 0.0.0.0 bn4sch101120911.wns.windows.com
@@ -2260,6 +2260,7 @@
 127.0.0.1 buyu9919.com
 127.0.0.1 gads.pubmatic.com
 127.0.0.1 www.addthis.com
+127.0.0.1 static.addtoany.com
 127.0.0.1 www.8hg63.com
 127.0.0.1 adsymptotic.com
 127.0.0.1 www.170066.com
@@ -5026,6 +5027,7 @@
 127.0.0.1 king.youzu.com
 127.0.0.1 paid.outbrain.com
 127.0.0.1 api.pubmatic.com
+127.0.0.1 track.adform.net
 127.0.0.1 count12.51yes.com
 127.0.0.1 mediav.com.cn
 127.0.0.1 f18.livechatvalue.com
@@ -8397,7 +8399,6 @@
 127.0.0.1 perr.h-cdn.com
 127.0.0.1 tr.ad-stir.com
 127.0.0.1 dc.lsosad.com
-127.0.0.1 static.addtoany.com
 127.0.0.1 um3.eqads.com
 127.0.0.1 s.ntv.io
 127.0.0.1 beacon.deepintent.com
@@ -11150,7 +11151,6 @@
 127.0.0.1 queuer-prod-elb.53.localytics.com
 127.0.0.1 t.chartboost.com
 127.0.0.1 pgpl.g5e.com
-127.0.0.1 track.adform.net
 127.0.0.1 end.scorecardresearch.com
 127.0.0.1 tarsan.g2afse.com
 127.0.0.1 mobilecore.com
