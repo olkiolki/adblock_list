@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2025-07-18 00:26:58
+! Last Modified: 2025-07-18 09:49:13
 ! Homepage: https://github.com/xndeye/adblock_list
 ! 👇This Part Merge from: WindowsSpyBlocker (https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
 0.0.0.0 bn4sch101120911.wns.windows.com
@@ -2282,9 +2282,7 @@
 127.0.0.1 bcs.91.com
 127.0.0.1 mitaosp829.17arch.com
 127.0.0.1 geo.crtracklink.com
-127.0.0.1 p.rfihub.com
 127.0.0.1 www.c77777777.com
-127.0.0.1 um.simpli.fi
 127.0.0.1 imp.openx.net
 127.0.0.1 online.cnzz.com
 127.0.0.1 www.flstudiochina.com
@@ -2498,7 +2496,6 @@
 127.0.0.1 api.ero-advertising.com
 127.0.0.1 c6.statcounter.com
 127.0.0.1 buyu9926.com
-127.0.0.1 rules.quantcount.com
 127.0.0.1 wallpaperjunctiondownload.j8inn1zektoe.com
 127.0.0.1 www.28tts.com
 127.0.0.1 c.cyto-biotherapy.com
@@ -3244,7 +3241,6 @@
 127.0.0.1 homelessinmoscow.j8inn1zektoe.com
 127.0.0.1 t.hrtyc.com
 127.0.0.1 www.878090.com
-127.0.0.1 sb.scorecardresearch.com
 127.0.0.1 www.61677q.com
 127.0.0.1 rekovers.ru
 127.0.0.1 sha2024.com
@@ -3297,7 +3293,6 @@
 127.0.0.1 tag.cdnmaster.cn
 127.0.0.1 www.xinhao29.com
 127.0.0.1 cookie.vrtzads.com
-127.0.0.1 pixel.quantserve.com
 127.0.0.1 sqms.cn
 127.0.0.1 cymzc.com
 127.0.0.1 tg.yxdou.com
@@ -3393,7 +3388,6 @@
 127.0.0.1 wwwelcallejon809com.j8inn1zektoe.com
 127.0.0.1 freestar-d.openx.net
 127.0.0.1 mostat.wps.cn
-127.0.0.1 secure-assets.rubiconproject.com
 127.0.0.1 bingdianhuanyuan.cn
 127.0.0.1 i.rdldtrk.com
 127.0.0.1 t2.58cdn.com.cn
@@ -3478,7 +3472,6 @@
 127.0.0.1 vipactor.net
 127.0.0.1 www.19929.com
 127.0.0.1 girlcc.cc
-127.0.0.1 go.oclasrv.com
 127.0.0.1 sd.360.cn
 127.0.0.1 www.9579.com
 127.0.0.1 cpro2.baidustatic.com
@@ -3608,7 +3601,6 @@
 127.0.0.1 buyu9954.com
 127.0.0.1 count49.51yes.com
 127.0.0.1 s132.cnzz.com
-127.0.0.1 sitemaji.com
 127.0.0.1 wastn.cn
 127.0.0.1 c24.statcounter.com
 127.0.0.1 mysterium.j8inn1zektoe.com
@@ -3945,7 +3937,6 @@
 127.0.0.1 wz.37wan.com
 127.0.0.1 ncz.yeepay.com
 127.0.0.1 www.365vip00.co
-127.0.0.1 sc-static.net
 127.0.0.1 app.clickmobi.cn
 127.0.0.1 click.uve.mobile.sina.cn
 127.0.0.1 sha2013.com
@@ -4353,7 +4344,6 @@
 127.0.0.1 js.pusher.com
 127.0.0.1 cytroncdn.videojj.com
 127.0.0.1 www.bb-503.com
-127.0.0.1 ap.lijit.com
 127.0.0.1 v29.com
 127.0.0.1 ads7.contentabc.com
 127.0.0.1 2013pan.cn
@@ -5076,6 +5066,8 @@
 127.0.0.1 platform.ssacdn.com
 127.0.0.1 js.idio.co
 127.0.0.1 ds-aksb-a.akamaihd.net
+127.0.0.1 p.rfihub.com
+127.0.0.1 um.simpli.fi
 127.0.0.1 r.popin.cc
 127.0.0.1 assets.mantisadnetwork.com
 127.0.0.1 cdn.quantummetric.com
@@ -6146,6 +6138,7 @@
 127.0.0.1 sync.mathtag.com
 127.0.0.1 lightstep-collector.api.ua.com
 127.0.0.1 v2.pixel.newscgp.com
+127.0.0.1 ap.lijit.com
 127.0.0.1 entitlements.kochava.com
 127.0.0.1 adtheorent107077183660.s.moatpixel.com
 127.0.0.1 sg-new-ap-southeast-1b-hb.rayjump.com
@@ -6752,6 +6745,7 @@
 127.0.0.1 insight.ucweb.com
 127.0.0.1 pg-prebid-server-aws-usw2.rubiconproject.com
 127.0.0.1 analytics.mopub.com
+127.0.0.1 rules.quantcount.com
 127.0.0.1 app.yieldify.com
 127.0.0.1 b.fox.com
 127.0.0.1 ncaudienceexchange.com
@@ -7295,6 +7289,7 @@
 127.0.0.1 pixel.rubiconproject.com
 127.0.0.1 visitor-service-us-east-1.tealiumiq.com
 127.0.0.1 a1369.casalemedia.com
+127.0.0.1 sitemaji.com
 127.0.0.1 revee.outbrain.com
 127.0.0.1 api.gameofwhales.com
 127.0.0.1 lee.blueconic.net
@@ -7496,6 +7491,7 @@
 127.0.0.1 graph.bluecava.com
 127.0.0.1 survey.wootric.com
 127.0.0.1 applovin.com
+127.0.0.1 sc-static.net
 127.0.0.1 trk-int.addealsnetwork.com
 127.0.0.1 turbo.adsbynimbus.com
 127.0.0.1 app-ab33.marketo.com
@@ -8721,6 +8717,7 @@
 127.0.0.1 mcvsb5ngty4dzxx8jp80yt3q5614.device.marketingcloudapis.com
 127.0.0.1 track.recreativ.ru
 127.0.0.1 api-n.outgrow.co
+127.0.0.1 sb.scorecardresearch.com
 127.0.0.1 static.zdbb.net
 127.0.0.1 tnc16-useast1a.isnssdk.com
 127.0.0.1 owb101.goo.ne.jp
@@ -8743,6 +8740,7 @@
 127.0.0.1 secure.insightexpressai.com
 127.0.0.1 aqt.adalliance.io
 127.0.0.1 dhg-logging.us-east-1.elasticbeanstalk.com
+127.0.0.1 pixel.quantserve.com
 127.0.0.1 pub.lavanetwork.net
 127.0.0.1 bc.ad.daum.net
 127.0.0.1 adgear.com
@@ -8833,6 +8831,7 @@
 127.0.0.1 adtng.com
 127.0.0.1 gateway.restartad.com
 127.0.0.1 placed.com
+127.0.0.1 go.oclasrv.com
 127.0.0.1 publishers.revcontent.com
 127.0.0.1 c2.taboola.com
 127.0.0.1 data-beacons.s-onetag.com
@@ -10335,6 +10334,7 @@
 127.0.0.1 startup.oupeng.com
 127.0.0.1 analytics-production.hapyak.com
 127.0.0.1 lookup.qubit.com
+127.0.0.1 secure-assets.rubiconproject.com
 127.0.0.1 tracking.adalyser.com
 127.0.0.1 stats.popcap.com
 127.0.0.1 md-a-c.apptimize.com
