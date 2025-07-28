@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2025-07-28 09:54:30
+! Last Modified: 2025-07-28 16:31:13
 ! Homepage: https://github.com/xndeye/adblock_list
 ! 👇This Part Merge from: WindowsSpyBlocker (https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
 0.0.0.0 bn4sch101120911.wns.windows.com
@@ -2509,7 +2509,6 @@
 127.0.0.1 antivirus.baidu.com
 127.0.0.1 api.ero-advertising.com
 127.0.0.1 c6.statcounter.com
-127.0.0.1 aax-fe.amazon-adsystem.com
 127.0.0.1 buyu9926.com
 127.0.0.1 rules.quantcount.com
 127.0.0.1 wallpaperjunctiondownload.j8inn1zektoe.com
@@ -2536,7 +2535,6 @@
 127.0.0.1 tai.9998827.com
 127.0.0.1 www.perfect-dating.com
 127.0.0.1 www.adrunnr.com
-127.0.0.1 arg.atomex.net
 127.0.0.1 ini.update.360safe.com
 127.0.0.1 secure.livechatinc.com
 127.0.0.1 www.nextlnk9.com
@@ -2666,7 +2664,6 @@
 127.0.0.1 qianying208.com
 127.0.0.1 xapi.birdmedia.com
 127.0.0.1 flstudiochina.com
-127.0.0.1 aax.amazon-adsystem.com
 127.0.0.1 javbox111.com
 127.0.0.1 v6.cnzz.com
 127.0.0.1 api.api68.com
@@ -2974,7 +2971,6 @@
 127.0.0.1 count17.51yes.com
 127.0.0.1 s138.cnzz.com
 127.0.0.1 www.jihehuaban.com.cn
-127.0.0.1 bttrack.com
 127.0.0.1 dtscout.rtb.adx1.com
 127.0.0.1 www.qbdgame.com
 127.0.0.1 wds.inte.sogoucdn.com
@@ -3842,7 +3838,6 @@
 127.0.0.1 counter.kingsoft.com
 127.0.0.1 fsb-bearing.com
 127.0.0.1 sf.adsfactor.net
-127.0.0.1 ps.eyeota.net
 127.0.0.1 www.pj38330.bet
 127.0.0.1 msoftdl.360.cn
 127.0.0.1 safeken.com
@@ -4080,7 +4075,6 @@
 127.0.0.1 spot-01.atas.io
 127.0.0.1 popearn.com
 127.0.0.1 h1.xysibu.cn
-127.0.0.1 static.hotjar.com
 127.0.0.1 cdn.openxt.cn
 127.0.0.1 xiaojinqipai.com
 127.0.0.1 bdyingxiaocms.cdn.bcebos.com
@@ -4300,7 +4294,6 @@
 127.0.0.1 edu.jujiaxiansheng.com
 127.0.0.1 c.wuliu800.com.cn
 127.0.0.1 lehu910.com
-127.0.0.1 match.deepintent.com
 127.0.0.1 tdsjsext.com
 127.0.0.1 dl.liebao.cn
 127.0.0.1 sdk.cdnmaster.com
@@ -4619,7 +4612,6 @@
 127.0.0.1 cdn.aiclicash.com
 127.0.0.1 buyu9924.com
 127.0.0.1 media.trafficfactory.biz
-127.0.0.1 dps.jp.cinarra.com
 127.0.0.1 www.qianka.com
 127.0.0.1 easyrecoverychina.com
 127.0.0.1 jsshen.com
@@ -4650,7 +4642,6 @@
 127.0.0.1 www.417720.com
 127.0.0.1 info.wps.cn
 127.0.0.1 chemdraw.com.cn
-127.0.0.1 aax-fe-sin.amazon-adsystem.com
 127.0.0.1 api.trwl1.com
 127.0.0.1 www.17388.com
 127.0.0.1 fp1.qdyinglida.com
@@ -5518,6 +5509,7 @@
 127.0.0.1 events.tabmo.io
 127.0.0.1 fcanr.tracking.miui.com
 127.0.0.1 mozbar.moz.com
+127.0.0.1 bttrack.com
 127.0.0.1 partner.knorex.com
 127.0.0.1 pie.wirelessregistry.com
 127.0.0.1 bktr2-06hdl.ads.tremorhub.com
@@ -6341,6 +6333,7 @@
 127.0.0.1 dmp.fout.jp
 127.0.0.1 asia.adform.net
 127.0.0.1 exc.mob.com
+127.0.0.1 aax-fe-sin.amazon-adsystem.com
 127.0.0.1 nep.advangelists.com
 127.0.0.1 cdn.mookie1.com
 127.0.0.1 a.mobimagic.com
@@ -6812,6 +6805,7 @@
 127.0.0.1 utctime.tiltingpoint.io
 127.0.0.1 cli.linksynergy.com
 127.0.0.1 cdn.p-n.io
+127.0.0.1 arg.atomex.net
 127.0.0.1 sdk.im.jiguang.cn
 127.0.0.1 amplify-imp.outbrain.com
 127.0.0.1 ma1498-r.analytics.edgekey.net
@@ -6876,6 +6870,7 @@
 127.0.0.1 obo.moatads.com
 127.0.0.1 adobetag.com.edgekey.net
 127.0.0.1 abroad-ad.kingsoft-office-service.com
+127.0.0.1 aax.amazon-adsystem.com
 127.0.0.1 analytics.metalocator.com
 127.0.0.1 ad.period-calendar.com
 127.0.0.1 l3.evidon.com
@@ -9051,6 +9046,7 @@
 127.0.0.1 appnexus.net
 127.0.0.1 exp.360in.com
 127.0.0.1 klkstrm.kargo.com
+127.0.0.1 ps.eyeota.net
 127.0.0.1 inapps.appsflyer.com
 127.0.0.1 info.evidon.com
 127.0.0.1 sin01-search.spotxchange.com
@@ -9183,6 +9179,7 @@
 127.0.0.1 adbsc.flyermobi.com
 127.0.0.1 hulu.hb.omtrdc.net
 127.0.0.1 contentapi.celltick.com
+127.0.0.1 static.hotjar.com
 127.0.0.1 thetrafficstat.net
 127.0.0.1 criteo-sync.teads.tv.edgekey.net
 127.0.0.1 snrtp1.marketo.com
@@ -9907,6 +9904,7 @@
 127.0.0.1 insights.dice.com
 127.0.0.1 app-ab14.marketo.com
 127.0.0.1 americanmedia.blueconic.net
+127.0.0.1 aax-fe.amazon-adsystem.com
 127.0.0.1 api.indicative.com
 127.0.0.1 logs.ironsrc.mobi
 127.0.0.1 m.vpadn.com
@@ -10821,6 +10819,7 @@
 127.0.0.1 prod-m-node-3111.ssp.advertising.com
 127.0.0.1 open.isnssdk.com
 127.0.0.1 resources.taboola.com
+127.0.0.1 match.deepintent.com
 127.0.0.1 static2.chartbeat.com
 127.0.0.1 5-9-5-ios.userflows.ingest.crittercism.com
 127.0.0.1 cdn.revcontent.com
@@ -10985,6 +10984,7 @@
 127.0.0.1 ilb.pns.kt.com
 127.0.0.1 api.smartechmetrics.com
 127.0.0.1 aws-oregon-jrtr.rtr.innovid.com.akadns.net
+127.0.0.1 dps.jp.cinarra.com
 127.0.0.1 choices.truste.com
 127.0.0.1 agkn.com
 127.0.0.1 api.itv.letv.com
