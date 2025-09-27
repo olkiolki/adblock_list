@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2025-09-27 00:23:09
+! Last Modified: 2025-09-27 09:20:14
 ! Homepage: https://github.com/xndeye/adblock_list
 ! 👇This Part Merge from: WindowsSpyBlocker (https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
 0.0.0.0 bn4sch101120911.wns.windows.com
@@ -2698,6 +2698,7 @@
 127.0.0.1 vap3ams1.lijit.com
 127.0.0.1 dz.mmstat.com
 127.0.0.1 tg1.aniview.com
+127.0.0.1 cookie.vrtzads.com
 127.0.0.1 sax.sina.cn
 127.0.0.1 a.vertamedia.com
 127.0.0.1 link.krxd.net
@@ -2895,6 +2896,7 @@
 127.0.0.1 usc.adserver.snapads.com
 127.0.0.1 es-gmtdmp.mookie1.com
 127.0.0.1 srv.buysellads.com
+127.0.0.1 cdn.viglink.com
 127.0.0.1 c.ad-srv.co
 127.0.0.1 global.appnext.com
 127.0.0.1 sync.sharethis.com
@@ -3183,6 +3185,7 @@
 127.0.0.1 adserver-east.extend.tv
 127.0.0.1 sandbox.tinypass.com
 127.0.0.1 js.center.io
+127.0.0.1 ads.pro-market.net
 127.0.0.1 stats.sxp.smartclip.net
 127.0.0.1 engageya.com
 127.0.0.1 in-spiky.wzrkt.com
@@ -3956,6 +3959,7 @@
 127.0.0.1 agentchannel.api.duapp.com
 127.0.0.1 xdssp.mediav.com
 127.0.0.1 assets.connatix.com
+127.0.0.1 cdn.taboola.com
 127.0.0.1 ads.icloseli.com
 127.0.0.1 format.prod.cloud.ogury.io
 127.0.0.1 a.tribalfusion.com
@@ -5605,6 +5609,7 @@
 127.0.0.1 sjrtp6.marketo.com
 127.0.0.1 info.static.startappservice.com
 127.0.0.1 cdn.3lift.com
+127.0.0.1 a.pub.network
 127.0.0.1 g2c.cloud-elements.com
 127.0.0.1 cdn-3.convertexperiments.com
 127.0.0.1 adscale-emea.adnxs.com
@@ -6894,6 +6899,7 @@
 127.0.0.1 compass.adop.cc
 127.0.0.1 ro-gmtdmp.mookie1.com
 127.0.0.1 ssp.send.microad.jp
+127.0.0.1 ads.scorecardresearch.com
 127.0.0.1 track.saygames.io
 127.0.0.1 cmp-lb-ap-southeast.tubemogul.com
 127.0.0.1 tr.blismedia.com
@@ -8596,7 +8602,6 @@
 127.0.0.1 www.adultfriendfinder.com
 127.0.0.1 count20.51yes.com
 127.0.0.1 www.adsrvmedia.adk2x.com
-127.0.0.1 ads.scorecardresearch.com
 127.0.0.1 cdn.adsfactor.net
 127.0.0.1 count46.51yes.com
 127.0.0.1 get.sessions.exchange
@@ -9045,7 +9050,6 @@
 127.0.0.1 www.360app.cn
 127.0.0.1 avavwz.com
 127.0.0.1 jsmcrjmp.com
-127.0.0.1 cdn.taboola.com
 127.0.0.1 ehousewife.net
 127.0.0.1 mc.yandex.ru
 127.0.0.1 www.649649.com
@@ -9140,7 +9144,6 @@
 127.0.0.1 www.7089gg.com
 127.0.0.1 www.chntdnc.cn
 127.0.0.1 coinhive.com
-127.0.0.1 a.pub.network
 127.0.0.1 doublemax.net
 127.0.0.1 www.vns4394.com
 127.0.0.1 z.dwchaha.com
@@ -9562,7 +9565,6 @@
 127.0.0.1 s141.cnzz.com
 127.0.0.1 tag.cdnmaster.cn
 127.0.0.1 www.xinhao29.com
-127.0.0.1 cookie.vrtzads.com
 127.0.0.1 sqms.cn
 127.0.0.1 cymzc.com
 127.0.0.1 tg.yxdou.com
@@ -9965,7 +9967,6 @@
 127.0.0.1 www.hldwmly.com
 127.0.0.1 www2a.j8inn1zektoe.com
 127.0.0.1 jiongshiwu.com
-127.0.0.1 cdn.viglink.com
 127.0.0.1 ssl.xn--vqq79r59m.eu.org
 127.0.0.1 www15t.j8inn1zektoe.com
 127.0.0.1 store.atas.io
@@ -10524,7 +10525,6 @@
 127.0.0.1 www.7969sj.com
 127.0.0.1 www.xmtrk.com
 127.0.0.1 pcstore.com.tw
-127.0.0.1 ads.pro-market.net
 127.0.0.1 vns4392.com
 127.0.0.1 count22.51yes.com
 127.0.0.1 t.frtyk.com
