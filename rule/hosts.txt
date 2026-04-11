@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2026-04-11 10:22:37
+! Last Modified: 2026-04-11 16:42:44
 ! Homepage: https://github.com/xndeye/adblock_list
 ! 👇This Part Merge from: WindowsSpyBlocker (https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
 0.0.0.0 bn4sch101120911.wns.windows.com
@@ -2051,7 +2051,6 @@
 127.0.0.1 piclect.com
 127.0.0.1 cloudcdn.yousee.com
 127.0.0.1 down.360.cn
-127.0.0.1 static-tagr.gd1.mookie1.com
 127.0.0.1 www.7892205.com
 127.0.0.1 mobap.njlbms.com
 127.0.0.1 ad.doublemax.net
@@ -2132,7 +2131,6 @@
 127.0.0.1 shop.spyoff.com
 127.0.0.1 static.uuzu.com
 127.0.0.1 vns8yhn.com
-127.0.0.1 us-u.openx.net
 127.0.0.1 engine.spotscenered.info
 127.0.0.1 update.123juzi.net
 127.0.0.1 mgid.com
@@ -2409,7 +2407,6 @@
 127.0.0.1 xslt.alexa.com
 127.0.0.1 anastasiadate.com
 127.0.0.1 papapa.tv
-127.0.0.1 l.logly.co.jp
 127.0.0.1 www.hg417.bet
 127.0.0.1 jf365.boc.cn
 127.0.0.1 www55.superembed.com
@@ -2539,7 +2536,6 @@
 127.0.0.1 api.juicyads.com
 127.0.0.1 h99998888.com
 127.0.0.1 www.mycleanmymac.com
-127.0.0.1 cdn.flurry.com
 127.0.0.1 www.4242lll.com
 127.0.0.1 gm.mmstat.com
 127.0.0.1 hjc1990.com
@@ -3205,7 +3201,6 @@
 127.0.0.1 dsj66.cn
 127.0.0.1 s101.cnzz.com
 127.0.0.1 mobbahjug.com
-127.0.0.1 servicer.mgid.com
 127.0.0.1 hh55268.com
 127.0.0.1 join.javhd.com
 127.0.0.1 dl-vip.bav.baidu.com
@@ -3784,7 +3779,6 @@
 127.0.0.1 api.popin.cc
 127.0.0.1 karonty.com
 127.0.0.1 speednetwork14.adk2x.com
-127.0.0.1 tw-gmtdmp.mookie1.com
 127.0.0.1 galaxy.sogoucdn.com
 127.0.0.1 yyy.pp1500.com
 127.0.0.1 www.fastclick.com
@@ -4050,7 +4044,6 @@
 127.0.0.1 www.keyshot.cc
 127.0.0.1 tx2play1.douyucdn.cn
 127.0.0.1 hm3.cnzz.com
-127.0.0.1 media.innity.net
 127.0.0.1 vz-cdn.trafficjunky.net
 127.0.0.1 cootek-file.cdn.cootekservice.com
 127.0.0.1 www.50508894.com
@@ -4340,7 +4333,6 @@
 127.0.0.1 apipool.youzu.com
 127.0.0.1 f5.mtqys.com
 127.0.0.1 platform.adsymptotic.com
-127.0.0.1 c.go-mpulse.net
 127.0.0.1 buyu903.com
 127.0.0.1 www.538porn.com
 127.0.0.1 s100.cnzz.com
@@ -4375,7 +4367,6 @@
 127.0.0.1 click.gridsumdissector.com
 127.0.0.1 cdn.adriver.ru
 127.0.0.1 sa1.tuisong.baidu.com
-127.0.0.1 sync.mathtag.com
 127.0.0.1 www.a823.com
 127.0.0.1 web.adriver.ru
 127.0.0.1 cdn.outfit7.com
@@ -4402,7 +4393,6 @@
 127.0.0.1 s77.cnzz.com
 127.0.0.1 access.watchmygirlfriend.tv
 127.0.0.1 ad.aspm.jp
-127.0.0.1 ad.crwdcntrl.net
 127.0.0.1 uux68.com
 127.0.0.1 ad.dmm.com
 127.0.0.1 www.v8816.com
@@ -4790,7 +4780,6 @@
 127.0.0.1 lyf.com
 127.0.0.1 www.537901.com
 127.0.0.1 www.9vns8.com
-127.0.0.1 dl.ijinshan.com
 127.0.0.1 cap.touclick.com
 127.0.0.1 ad2.contentabc.com
 127.0.0.1 bite.theta.sogoucdn.com
@@ -5615,6 +5604,7 @@
 127.0.0.1 clientsdk.luminati.io
 127.0.0.1 cdn-a.amazon-adsystem.com
 127.0.0.1 iad-03.appboy.com
+127.0.0.1 servicer.mgid.com
 127.0.0.1 adexp.liftoff.io
 127.0.0.1 dc.webtrends.com
 127.0.0.1 2405.api.swrve.com
@@ -6031,6 +6021,7 @@
 127.0.0.1 r1.visualwebsiteoptimizer.com
 127.0.0.1 serving.ad.org.vn
 127.0.0.1 pixel-apac.rubiconproject.net.akadns.net
+127.0.0.1 media.innity.net
 127.0.0.1 adsbynimbus.com
 127.0.0.1 td.yieldify.com
 127.0.0.1 us1.wzrkt.com
@@ -6176,6 +6167,7 @@
 127.0.0.1 datacollector-dra.dt.dbankcloud.cn
 127.0.0.1 cm.gammaplatform.com
 127.0.0.1 am-sync.taboola.com
+127.0.0.1 sync.mathtag.com
 127.0.0.1 lightstep-collector.api.ua.com
 127.0.0.1 v2.pixel.newscgp.com
 127.0.0.1 entitlements.kochava.com
@@ -6564,6 +6556,7 @@
 127.0.0.1 mb-cdn.stocard.de
 127.0.0.1 cdn.permutive.com
 127.0.0.1 nr-events.taboola.com
+127.0.0.1 us-u.openx.net
 127.0.0.1 7f077.v.fwmrm.net
 127.0.0.1 wildcard.marketo.net.edgekey.net
 127.0.0.1 js.adsrvr.org
@@ -6725,6 +6718,7 @@
 127.0.0.1 api.taps.io
 127.0.0.1 renderer.apester.com
 127.0.0.1 sdk.collabollc.com
+127.0.0.1 l.logly.co.jp
 127.0.0.1 im64.jpush.cn
 127.0.0.1 ca4-bid.adsrvr.org
 127.0.0.1 segment.prod.bidr.io
@@ -6797,6 +6791,7 @@
 127.0.0.1 sms.mob.com
 127.0.0.1 adx-asia.aarki.net
 127.0.0.1 tutoads.tv
+127.0.0.1 cdn.flurry.com
 127.0.0.1 challenge.360in.com
 127.0.0.1 opx-winners-us-east-1-rtb.adroll.com
 127.0.0.1 sync.ads.yieldmo.com
@@ -7426,6 +7421,7 @@
 127.0.0.1 so.rlcdn.com
 127.0.0.1 e-10220.adzerk.net
 127.0.0.1 c.hrzn-nxt.com
+127.0.0.1 tw-gmtdmp.mookie1.com
 127.0.0.1 tacoda.net
 127.0.0.1 local.ownlocal.com
 127.0.0.1 async-px.dynamicyield.com
@@ -8046,6 +8042,7 @@
 127.0.0.1 dspcluster.adfarm1.adition.com
 127.0.0.1 trackifyx.redretarget.com
 127.0.0.1 eks-prod-1c.vungle.com
+127.0.0.1 static-tagr.gd1.mookie1.com
 127.0.0.1 cdnp1.yieldoptimizer.com
 127.0.0.1 analytics.vendemore.com
 127.0.0.1 log.api.zaloapp.com
@@ -9304,6 +9301,7 @@
 127.0.0.1 a3868.casalemedia.com
 127.0.0.1 services.serving-sys.com
 127.0.0.1 connect-metrics-collector.s-onetag.com
+127.0.0.1 c.go-mpulse.net
 127.0.0.1 cdn.firstimpression.io
 127.0.0.1 a3791.casalemedia.com
 127.0.0.1 api.webengage.com
@@ -10871,6 +10869,7 @@
 127.0.0.1 itx4.smartadserver.com
 127.0.0.1 c00162-dl.urbanairship.com
 127.0.0.1 app.push-ad.com
+127.0.0.1 ad.crwdcntrl.net
 127.0.0.1 fw.adsafeprotected.com
 127.0.0.1 bridge.sfo1.admarketplace.net
 127.0.0.1 adsinter1.addealsnetwork.com
@@ -11078,6 +11077,7 @@
 127.0.0.1 contentstream.pl
 127.0.0.1 hk.as.criteo.net
 127.0.0.1 idpix.media6degrees.com
+127.0.0.1 dl.ijinshan.com
 127.0.0.1 admitad.com
 127.0.0.1 sinkhole.netmng.com
 127.0.0.1 nappyattack.com
