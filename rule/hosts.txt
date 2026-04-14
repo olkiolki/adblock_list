@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2026-04-14 17:18:22
+! Last Modified: 2026-04-15 01:08:20
 ! Homepage: https://github.com/xndeye/adblock_list
 ! 👇This Part Merge from: WindowsSpyBlocker (https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
 0.0.0.0 bn4sch101120911.wns.windows.com
@@ -454,7 +454,6 @@
 127.0.0.1 ad.caiyunapp.com
 127.0.0.1 dfe.mic.mob.com
 127.0.0.1 log.qchannel03.cn
-127.0.0.1 app.appsflyer.com
 127.0.0.1 www.qchannel04.cn
 127.0.0.1 uapi.ads.heytapmobi.com
 127.0.0.1 dm.bytedance.com
@@ -830,7 +829,6 @@
 127.0.0.1 onrt-stsdk.vivo.com.cn
 127.0.0.1 vmindhls.tc.qq.com
 127.0.0.1 hunantv.m.cn.miaozhen.com
-127.0.0.1 adimg.daumcdn.net
 127.0.0.1 pv.hd.sohu.com
 127.0.0.1 gecko-lq.snssdk.com
 127.0.0.1 tytx.m.cn.miaozhen.com
@@ -1033,7 +1031,6 @@
 127.0.0.1 ads.mobilityware.com
 127.0.0.1 assets.cntdy.mobi
 127.0.0.1 zs12.cnzz.com
-127.0.0.1 launches.appsflyer.com
 127.0.0.1 www.google-analytics.com
 127.0.0.1 ads.voiceads.cn
 127.0.0.1 q.i.gdt.qq.com
@@ -1110,7 +1107,6 @@
 127.0.0.1 fclog.baidu.com
 127.0.0.1 ggx02.miguvideo.com
 127.0.0.1 adserver.juicyads.com
-127.0.0.1 api.doumob.com
 127.0.0.1 ipm.atm.youku.com
 127.0.0.1 track.celtra.com
 127.0.0.1 pgdt.ugdtimg.com
@@ -1180,7 +1176,6 @@
 127.0.0.1 de.as.pptv.com
 127.0.0.1 ykad-gateway.youku.com
 127.0.0.1 adstat.izuiyou.com
-127.0.0.1 t.appsflyer.com
 127.0.0.1 statics.woozooo.com
 127.0.0.1 ads.ninemsn.com.au
 127.0.0.1 wxa79ef55c1a84e284.wx.ckjr001.com
@@ -1378,7 +1373,6 @@
 127.0.0.1 au.w.inmobi.cn
 127.0.0.1 data.ads.oppomobile.com
 127.0.0.1 ei.cnzz.com
-127.0.0.1 events.appsflyer.com
 127.0.0.1 adpm.app.qq.com
 127.0.0.1 c-gtc.getui.com
 127.0.0.1 adlaunch.moji.com
@@ -1725,7 +1719,6 @@
 127.0.0.1 oth.eve.mdt.qq.com
 127.0.0.1 imasdk.googleapis.com
 127.0.0.1 mobile.Banzai.it
-127.0.0.1 ads.creative-serving.com
 127.0.0.1 clientlog3.music.163.com
 127.0.0.1 nsclick.baidu.com
 127.0.0.1 edgecast-vod.yahoo.net
@@ -2694,6 +2687,7 @@
 127.0.0.1 ets-eu-west-1.track.smaato.net
 127.0.0.1 nr-data.net
 127.0.0.1 app-ab26.marketo.com
+127.0.0.1 api.doumob.com
 127.0.0.1 vision.fn-pz.com
 127.0.0.1 psi.tubemogul.com
 127.0.0.1 hblg.media.net
@@ -2947,6 +2941,7 @@
 127.0.0.1 bs.eyeblaster.akadns.net
 127.0.0.1 a1423.casalemedia.com
 127.0.0.1 758.content.swrve.com
+127.0.0.1 events.appsflyer.com
 127.0.0.1 ads-mediafin.adhese.com
 127.0.0.1 sin1.ipromote.com
 127.0.0.1 hydra.alibaba.com
@@ -3296,6 +3291,7 @@
 127.0.0.1 cdn4.buysellads.net
 127.0.0.1 pasta.sd.duapps.com
 127.0.0.1 wpr.hot-mob.com
+127.0.0.1 ads.creative-serving.com
 127.0.0.1 eastus.trafficmanager.inmobi.com
 127.0.0.1 vytomi.gotrackier.com
 127.0.0.1 roundrobin-log.agoop.net
@@ -3613,6 +3609,7 @@
 127.0.0.1 config.quantumgraph.com
 127.0.0.1 prod-bid.applovin.com
 127.0.0.1 cdn.izooto.com
+127.0.0.1 app.appsflyer.com
 127.0.0.1 geocdn.unityads.unity3d.com
 127.0.0.1 fota5p.adups.com
 127.0.0.1 cloud.ogury.io
@@ -3970,6 +3967,7 @@
 127.0.0.1 static.eu.criteo.net
 127.0.0.1 app.ssp.yahoo.com
 127.0.0.1 socialcanvas-cdn.kargo.com
+127.0.0.1 adimg.daumcdn.net
 127.0.0.1 mtrx.go.sonobi.com
 127.0.0.1 static.subiz.com
 127.0.0.1 sdk.zapr.in
@@ -7350,6 +7348,7 @@
 127.0.0.1 metrics.client-eng.a2z.com
 127.0.0.1 glitter.services.disqus.com
 127.0.0.1 jact.atdmt.com
+127.0.0.1 launches.appsflyer.com
 127.0.0.1 click.advertnative.com
 127.0.0.1 assets.locuslabs.com
 127.0.0.1 a3449.casalemedia.com
@@ -7508,6 +7507,7 @@
 127.0.0.1 branch.io
 127.0.0.1 tt.onthe.io
 127.0.0.1 i.idio.co
+127.0.0.1 t.appsflyer.com
 127.0.0.1 cdn-3.convertexperiments.com.edgekey.net
 127.0.0.1 1188.content.swrve.com
 127.0.0.1 analysis.polarisoffice.com
