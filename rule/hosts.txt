@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2026-08-25 00:36:34
+! Last Modified: 2026-08-25 09:14:44
 ! Homepage: https://github.com/xndeye/adblock_list
 ! 👇This Part Merge from: WindowsSpyBlocker (https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
 0.0.0.0 bn4sch101120911.wns.windows.com
@@ -2472,6 +2472,7 @@
 127.0.0.1 sites.exoclick.com
 127.0.0.1 www.gb734.com
 127.0.0.1 www.youfa72.com
+127.0.0.1 ad-specs.guoshipartners.com
 127.0.0.1 qwe77.com
 127.0.0.1 ic.wps.cn
 127.0.0.1 s135.cnzz.com
@@ -2535,7 +2536,6 @@
 127.0.0.1 h99998888.com
 127.0.0.1 www.mycleanmymac.com
 127.0.0.1 www.4242lll.com
-127.0.0.1 gm.mmstat.com
 127.0.0.1 hjc1990.com
 127.0.0.1 ad.adnxs.com
 127.0.0.1 ad.adx.adnxs.com
@@ -4249,6 +4249,7 @@
 127.0.0.1 www.kuaso.com
 127.0.0.1 cache.cnzz.com
 127.0.0.1 www.pop.bid
+127.0.0.1 log.mmstat.com
 127.0.0.1 www.2883uu.com
 127.0.0.1 www.luoshenbest.com
 127.0.0.1 myfrenchcountryhome.j8inn1zektoe.com
@@ -9252,7 +9253,6 @@
 127.0.0.1 sweb.ulta.com
 127.0.0.1 match.rundsp.com
 127.0.0.1 displayf.tubemogul.com
-127.0.0.1 log.mmstat.com
 127.0.0.1 pushid-noneu.truecaller.com
 127.0.0.1 cdn.civicscience.com
 127.0.0.1 akstat.io.edgekey.net
@@ -9887,7 +9887,6 @@
 127.0.0.1 ad.lkqd.net
 127.0.0.1 pnapi.invoca.net
 127.0.0.1 api.leanplum.com
-127.0.0.1 ad-specs.guoshipartners.com
 127.0.0.1 segments.company-target.com
 127.0.0.1 stage-ms.applovin.com
 127.0.0.1 registration.gimbal.com
@@ -9918,6 +9917,7 @@
 127.0.0.1 api.sociaplus.com
 127.0.0.1 api.player.xcal.tv
 127.0.0.1 blisspoint.us-east-1.stinger-ad.bidr.io
+127.0.0.1 gm.mmstat.com
 127.0.0.1 admixer.co.kr
 127.0.0.1 ads.iosappsworld.com
 127.0.0.1 googleadservices.com
