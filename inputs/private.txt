@@ -20,3 +20,82 @@
 appinn.com##.featured-section
 appinn.com###sidebar.wp-block-image, .size-full
 appinn.com###latest-posts .latestPost:nth-child(-n+3)
+# 杀死小米 v1.0.3: exact hostnames only.
+0.0.0.0 flash.sec.miui.com
+::1 flash.sec.miui.com
+0.0.0.0 api.sec.miui.com
+::1 api.sec.miui.com
+0.0.0.0 virus-engine.sec.miui.com
+::1 virus-engine.sec.miui.com
+0.0.0.0 fraud-detection.engine.miui.com
+::1 fraud-detection.engine.miui.com
+0.0.0.0 detection-aigc.engine.miui.com
+::1 detection-aigc.engine.miui.com
+0.0.0.0 dm.wo.com.cn
+::1 dm.wo.com.cn
+0.0.0.0 tracking.miui.com
+::1 tracking.miui.com
+0.0.0.0 data.sec.miui.com
+::1 data.sec.miui.com
+0.0.0.0 eps.caict.ac.cn
+::1 eps.caict.ac.cn
+0.0.0.0 gateway-papa.cloud.weizhi.com
+::1 gateway-papa.cloud.weizhi.com
+0.0.0.0 api.ad.xiaomi.com
+::1 api.ad.xiaomi.com
+0.0.0.0 srv.sec.miui.com
+::1 srv.sec.miui.com
+0.0.0.0 om.tracking.miui.com
+::1 om.tracking.miui.com
+0.0.0.0 zzhc.vnet.cn
+::1 zzhc.vnet.cn
+0.0.0.0 typdm.tydevice.com
+::1 typdm.tydevice.com
+0.0.0.0 framework.sec.miui.com
+::1 framework.sec.miui.com
+0.0.0.0 tracking.india.miui.com
+::1 tracking.india.miui.com
+0.0.0.0 tracking.rus.miui.com
+::1 tracking.rus.miui.com
+0.0.0.0 tracking.eu.miui.com
+::1 tracking.eu.miui.com
+0.0.0.0 tracking.intl.miui.com
+::1 tracking.intl.miui.com
+0.0.0.0 pn-tracking-bak.onetrack.mi.com
+::1 pn-tracking-bak.onetrack.mi.com
+||dm.wo.com.cn^
+||fraud-detection.engine.miui.com^
+||flash.sec.miui.com^
+||virus-engine.sec.miui.com^
+||data.sec.miui.com^
+||adv.sec.miui.com^
+||xlmc.sec.miui.com^
+||etl.xlmc.sec.miui.com^
+||mazu.sec.miui.com^
+||security.browser.miui.com^
+||cse.avlyun.sec.miui.com^
+||ixav-cse.avlyun.com^
+||logupdate.avlyun.sec.miui.com^
+# ---- Group B: ads / analytics / statistics (verify with query log) ----
+||sec-cdn.open.mistat.xiaomi.com^
+||data.mistat.xiaomi.com^
+||tracking.miui.com^
+||tracking.intl.miui.com^
+||ad.mi.com^
+||ad.miui.com^
+||ad.xiaomi.com^
+||api.ads.xiaomi.com^
+||a.union.mi.com^
+||a.union.xiaomi.com^
+||adv.l7.34.sec.miui.com^
+||stat.miui.com^
+||stat.xiaomi.com^
+||mistat.xiaomi.com^
+||mqs-log.miui.com^
+||events.miui.com^
+||logs.n.xiaomi.com^
+||mon.n.xiaomi.com^
+||report.n.xiaomi.com^
+||bugreport.xiaomi.net^
+||bugreport.pt.xiaomi.com^
+||log.pt.xiaomi.com^
