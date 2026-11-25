@@ -80,26 +80,41 @@ hosts 源 → 添加 → 粘贴 `hosts.txt` 地址。
 
 ## 规则来源
 
-共 17 个上游来源 + 1 个本仓库私有规则，完整清单见 [`config/application.yaml`](config/application.yaml)。
+共 16 个上游来源 + 2 个本仓库私有规则，完整链接见 [`config/application.yaml`](config/application.yaml)。
 
 <details>
 <summary>展开查看</summary>
 
-| 来源 | 说明 |
+| 来源 | 类型 |
 |:--|:--|
-| AdGuard FiltersRegistry | 基础 / 移动 / 防跟踪 / URL 跟踪 / 社交 / 恼人 / 解除搜索 / 中文 |
-| [秋风广告规则](https://github.com/TG-Twilight/AWAvenue-Adblock-Rule) | AWAvenue |
-| [halflife-list](https://github.com/sbwml/halflife-list) | 半衰期规则 |
-| [10007_auto](https://github.com/lingeringsound/10007_auto) | 保留广告奖励 |
-| [ad-wars](https://github.com/jdlingyu/ad-wars) | 大圣净化 |
-| [1024_hosts](https://github.com/Goooler/1024_hosts) | 恶意站点拦截 |
-| [AdAway](https://adaway.org/hosts.txt) | AdAway 默认清单 |
-| [WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) | Windows 遥测拦截 |
-| [neoHosts](https://github.com/neoFelhz/neohosts) | neoHosts |
-| [oisd](https://oisd.nl) | oisd small |
-| `inputs/private.txt` | 本仓库手工维护的补充规则 |
+| [AdGuard Base filter](https://github.com/AdguardTeam/FiltersRegistry) | filter |
+| [AdGuard Chinese filter](https://github.com/AdguardTeam/FiltersRegistry) | filter |
+| [AdGuard Mobile Ads filter](https://github.com/AdguardTeam/AdguardFilters) | filter |
+| [AdGuard DNS filter](https://github.com/AdguardTeam/AdGuardSDNSFilter) | filter |
+| [AdRules DNS List](https://github.com/Cats-Team/AdRules) | filter |
+| [CJX's Annoyance List](https://github.com/cjx82630/cjxlist) | filter |
+| [EasyList](https://easylist.to/) | filter |
+| [EasyList China](https://easylist.to/) | filter |
+| [EasyPrivacy](https://easylist.to/) | filter |
+| [xinggsf mv filter](https://github.com/xinggsf/Adblock-Plus-Rule) | filter |
+| [jiekouAD](https://github.com/damengzhu/banad) | filter |
+| [AWAvenue Ads Rule](https://github.com/TG-Twilight/AWAvenue-Ads-Rule) | dns |
+| [DNS-Blocklists PRO mini](https://github.com/hagezi/dns-blocklists) | dns |
+| [OISD Basic](https://oisd.nl/) | dns |
+| [StevenBlack hosts](https://github.com/StevenBlack/hosts) | hosts |
+| [Pollock hosts](https://someonewhocares.org/hosts/) | hosts |
+| `inputs/private-adblock.txt` | 私有 |
+| `inputs/private-hosts.txt` | 私有 |
 
 </details>
+
+选源原则：只收录仍在维护、误杀率低的清单。已排除 anti-AD、yhosts、Notracking（停更）、
+ADgk、SmartTV Blocklist、1024 hosts、ad-wars hosts（长期未更新）、NEO DEV HOST、
+xinggsf rule、1Hosts Lite、Hblock（误杀较多）。
+
+> 私有规则按语法分为两个文件：`private-adblock.txt` 放 `||域名^`、`@@`、`##` 等过滤语法，
+> `private-hosts.txt` 放 `0.0.0.0` / `::1` 形式的 hosts 条目。**两者不可混写**，
+> 否则与声明的 `type` 不符的条目会被静默丢弃。
 
 ## 更新机制
 
